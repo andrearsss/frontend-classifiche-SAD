@@ -1,0 +1,4516 @@
+{
+    "sfida": {
+        "partite vinte": [
+            {
+                "Rank": 1,
+                "Giocatore": "Giocatore_1",
+                "Statistica": 86
+            },
+            {
+                "Rank": 2,
+                "Giocatore": "Giocatore_2",
+                "Statistica": 84
+            },
+            {
+                "Rank": 3,
+                "Giocatore": "Giocatore_3",
+                "Statistica": 84
+            },
+            {
+                "Rank": 4,
+                "Giocatore": "Giocatore_4",
+                "Statistica": 46
+            },
+            {
+                "Rank": 5,
+                "Giocatore": "Giocatore_5",
+                "Statistica": 76
+            },
+            {
+                "Rank": 6,
+                "Giocatore": "Giocatore_6",
+                "Statistica": 8
+            },
+            {
+                "Rank": 7,
+                "Giocatore": "Giocatore_7",
+                "Statistica": 72
+            },
+            {
+                "Rank": 8,
+                "Giocatore": "Giocatore_8",
+                "Statistica": 95
+            },
+            {
+                "Rank": 9,
+                "Giocatore": "Giocatore_9",
+                "Statistica": 90
+            },
+            {
+                "Rank": 10,
+                "Giocatore": "Giocatore_10",
+                "Statistica": 46
+            },
+            {
+                "Rank": 11,
+                "Giocatore": "Giocatore_11",
+                "Statistica": 68
+            },
+            {
+                "Rank": 12,
+                "Giocatore": "Giocatore_12",
+                "Statistica": 27
+            },
+            {
+                "Rank": 13,
+                "Giocatore": "Giocatore_13",
+                "Statistica": 27
+            },
+            {
+                "Rank": 14,
+                "Giocatore": "Giocatore_14",
+                "Statistica": 94
+            },
+            {
+                "Rank": 15,
+                "Giocatore": "Giocatore_15",
+                "Statistica": 80
+            },
+            {
+                "Rank": 16,
+                "Giocatore": "Giocatore_16",
+                "Statistica": 12
+            },
+            {
+                "Rank": 17,
+                "Giocatore": "Giocatore_17",
+                "Statistica": 25
+            },
+            {
+                "Rank": 18,
+                "Giocatore": "Giocatore_18",
+                "Statistica": 3
+            },
+            {
+                "Rank": 19,
+                "Giocatore": "Giocatore_19",
+                "Statistica": 5
+            },
+            {
+                "Rank": 20,
+                "Giocatore": "Giocatore_20",
+                "Statistica": 64
+            },
+            {
+                "Rank": 21,
+                "Giocatore": "Giocatore_21",
+                "Statistica": 15
+            },
+            {
+                "Rank": 22,
+                "Giocatore": "Giocatore_22",
+                "Statistica": 37
+            },
+            {
+                "Rank": 23,
+                "Giocatore": "Giocatore_23",
+                "Statistica": 87
+            },
+            {
+                "Rank": 24,
+                "Giocatore": "Giocatore_24",
+                "Statistica": 82
+            },
+            {
+                "Rank": 25,
+                "Giocatore": "Giocatore_25",
+                "Statistica": 14
+            },
+            {
+                "Rank": 26,
+                "Giocatore": "Giocatore_26",
+                "Statistica": 97
+            },
+            {
+                "Rank": 27,
+                "Giocatore": "Giocatore_27",
+                "Statistica": 37
+            },
+            {
+                "Rank": 28,
+                "Giocatore": "Giocatore_28",
+                "Statistica": 50
+            },
+            {
+                "Rank": 29,
+                "Giocatore": "Giocatore_29",
+                "Statistica": 1
+            },
+            {
+                "Rank": 30,
+                "Giocatore": "Giocatore_30",
+                "Statistica": 69
+            },
+            {
+                "Rank": 31,
+                "Giocatore": "Giocatore_31",
+                "Statistica": 97
+            },
+            {
+                "Rank": 32,
+                "Giocatore": "Giocatore_32",
+                "Statistica": 95
+            },
+            {
+                "Rank": 33,
+                "Giocatore": "Giocatore_33",
+                "Statistica": 5
+            },
+            {
+                "Rank": 34,
+                "Giocatore": "Giocatore_34",
+                "Statistica": 42
+            },
+            {
+                "Rank": 35,
+                "Giocatore": "Giocatore_35",
+                "Statistica": 92
+            },
+            {
+                "Rank": 36,
+                "Giocatore": "Giocatore_36",
+                "Statistica": 42
+            },
+            {
+                "Rank": 37,
+                "Giocatore": "Giocatore_37",
+                "Statistica": 83
+            },
+            {
+                "Rank": 38,
+                "Giocatore": "Giocatore_38",
+                "Statistica": 50
+            },
+            {
+                "Rank": 39,
+                "Giocatore": "Giocatore_39",
+                "Statistica": 66
+            },
+            {
+                "Rank": 40,
+                "Giocatore": "Giocatore_40",
+                "Statistica": 16
+            },
+            {
+                "Rank": 41,
+                "Giocatore": "Giocatore_41",
+                "Statistica": 78
+            },
+            {
+                "Rank": 42,
+                "Giocatore": "Giocatore_42",
+                "Statistica": 38
+            },
+            {
+                "Rank": 43,
+                "Giocatore": "Giocatore_43",
+                "Statistica": 24
+            },
+            {
+                "Rank": 44,
+                "Giocatore": "Giocatore_44",
+                "Statistica": 88
+            },
+            {
+                "Rank": 45,
+                "Giocatore": "Giocatore_45",
+                "Statistica": 37
+            },
+            {
+                "Rank": 46,
+                "Giocatore": "Giocatore_46",
+                "Statistica": 73
+            },
+            {
+                "Rank": 47,
+                "Giocatore": "Giocatore_47",
+                "Statistica": 65
+            },
+            {
+                "Rank": 48,
+                "Giocatore": "Giocatore_48",
+                "Statistica": 30
+            },
+            {
+                "Rank": 49,
+                "Giocatore": "Giocatore_49",
+                "Statistica": 37
+            },
+            {
+                "Rank": 50,
+                "Giocatore": "Giocatore_50",
+                "Statistica": 66
+            },
+            {
+                "Rank": 51,
+                "Giocatore": "Giocatore_51",
+                "Statistica": 55
+            },
+            {
+                "Rank": 52,
+                "Giocatore": "Giocatore_52",
+                "Statistica": 38
+            },
+            {
+                "Rank": 53,
+                "Giocatore": "Giocatore_53",
+                "Statistica": 69
+            },
+            {
+                "Rank": 54,
+                "Giocatore": "Giocatore_54",
+                "Statistica": 55
+            },
+            {
+                "Rank": 55,
+                "Giocatore": "Giocatore_55",
+                "Statistica": 100
+            },
+            {
+                "Rank": 56,
+                "Giocatore": "Giocatore_56",
+                "Statistica": 97
+            },
+            {
+                "Rank": 57,
+                "Giocatore": "Giocatore_57",
+                "Statistica": 95
+            },
+            {
+                "Rank": 58,
+                "Giocatore": "Giocatore_58",
+                "Statistica": 27
+            },
+            {
+                "Rank": 59,
+                "Giocatore": "Giocatore_59",
+                "Statistica": 61
+            },
+            {
+                "Rank": 60,
+                "Giocatore": "Giocatore_60",
+                "Statistica": 60
+            },
+            {
+                "Rank": 61,
+                "Giocatore": "Giocatore_61",
+                "Statistica": 21
+            },
+            {
+                "Rank": 62,
+                "Giocatore": "Giocatore_62",
+                "Statistica": 34
+            },
+            {
+                "Rank": 63,
+                "Giocatore": "Giocatore_63",
+                "Statistica": 10
+            },
+            {
+                "Rank": 64,
+                "Giocatore": "Giocatore_64",
+                "Statistica": 23
+            },
+            {
+                "Rank": 65,
+                "Giocatore": "Giocatore_65",
+                "Statistica": 14
+            },
+            {
+                "Rank": 66,
+                "Giocatore": "Giocatore_66",
+                "Statistica": 47
+            },
+            {
+                "Rank": 67,
+                "Giocatore": "Giocatore_67",
+                "Statistica": 37
+            },
+            {
+                "Rank": 68,
+                "Giocatore": "Giocatore_68",
+                "Statistica": 90
+            },
+            {
+                "Rank": 69,
+                "Giocatore": "Giocatore_69",
+                "Statistica": 36
+            },
+            {
+                "Rank": 70,
+                "Giocatore": "Giocatore_70",
+                "Statistica": 62
+            },
+            {
+                "Rank": 71,
+                "Giocatore": "Giocatore_71",
+                "Statistica": 49
+            },
+            {
+                "Rank": 72,
+                "Giocatore": "Giocatore_72",
+                "Statistica": 94
+            },
+            {
+                "Rank": 73,
+                "Giocatore": "Giocatore_73",
+                "Statistica": 94
+            },
+            {
+                "Rank": 74,
+                "Giocatore": "Giocatore_74",
+                "Statistica": 20
+            },
+            {
+                "Rank": 75,
+                "Giocatore": "Giocatore_75",
+                "Statistica": 94
+            },
+            {
+                "Rank": 76,
+                "Giocatore": "Giocatore_76",
+                "Statistica": 81
+            },
+            {
+                "Rank": 77,
+                "Giocatore": "Giocatore_77",
+                "Statistica": 54
+            },
+            {
+                "Rank": 78,
+                "Giocatore": "Giocatore_78",
+                "Statistica": 24
+            },
+            {
+                "Rank": 79,
+                "Giocatore": "Giocatore_79",
+                "Statistica": 58
+            },
+            {
+                "Rank": 80,
+                "Giocatore": "Giocatore_80",
+                "Statistica": 80
+            },
+            {
+                "Rank": 81,
+                "Giocatore": "Giocatore_81",
+                "Statistica": 77
+            },
+            {
+                "Rank": 82,
+                "Giocatore": "Giocatore_82",
+                "Statistica": 66
+            },
+            {
+                "Rank": 83,
+                "Giocatore": "Giocatore_83",
+                "Statistica": 60
+            },
+            {
+                "Rank": 84,
+                "Giocatore": "Giocatore_84",
+                "Statistica": 85
+            },
+            {
+                "Rank": 85,
+                "Giocatore": "Giocatore_85",
+                "Statistica": 93
+            },
+            {
+                "Rank": 86,
+                "Giocatore": "Giocatore_86",
+                "Statistica": 10
+            },
+            {
+                "Rank": 87,
+                "Giocatore": "Giocatore_87",
+                "Statistica": 2
+            },
+            {
+                "Rank": 88,
+                "Giocatore": "Giocatore_88",
+                "Statistica": 15
+            },
+            {
+                "Rank": 89,
+                "Giocatore": "Giocatore_89",
+                "Statistica": 94
+            },
+            {
+                "Rank": 90,
+                "Giocatore": "Giocatore_90",
+                "Statistica": 51
+            },
+            {
+                "Rank": 91,
+                "Giocatore": "Giocatore_91",
+                "Statistica": 13
+            },
+            {
+                "Rank": 92,
+                "Giocatore": "Giocatore_92",
+                "Statistica": 93
+            },
+            {
+                "Rank": 93,
+                "Giocatore": "Giocatore_93",
+                "Statistica": 5
+            },
+            {
+                "Rank": 94,
+                "Giocatore": "Giocatore_94",
+                "Statistica": 70
+            },
+            {
+                "Rank": 95,
+                "Giocatore": "Giocatore_95",
+                "Statistica": 9
+            },
+            {
+                "Rank": 96,
+                "Giocatore": "Giocatore_96",
+                "Statistica": 12
+            },
+            {
+                "Rank": 97,
+                "Giocatore": "Giocatore_97",
+                "Statistica": 96
+            },
+            {
+                "Rank": 98,
+                "Giocatore": "Giocatore_98",
+                "Statistica": 23
+            },
+            {
+                "Rank": 99,
+                "Giocatore": "Giocatore_99",
+                "Statistica": 17
+            },
+            {
+                "Rank": 100,
+                "Giocatore": "Giocatore_100",
+                "Statistica": 48
+            },
+            {
+                "Rank": 101,
+                "Giocatore": "Giocatore_101",
+                "Statistica": 85
+            },
+            {
+                "Rank": 102,
+                "Giocatore": "Giocatore_102",
+                "Statistica": 60
+            },
+            {
+                "Rank": 103,
+                "Giocatore": "Giocatore_103",
+                "Statistica": 39
+            },
+            {
+                "Rank": 104,
+                "Giocatore": "Giocatore_104",
+                "Statistica": 8
+            },
+            {
+                "Rank": 105,
+                "Giocatore": "Giocatore_105",
+                "Statistica": 23
+            },
+            {
+                "Rank": 106,
+                "Giocatore": "Giocatore_106",
+                "Statistica": 66
+            },
+            {
+                "Rank": 107,
+                "Giocatore": "Giocatore_107",
+                "Statistica": 20
+            },
+            {
+                "Rank": 108,
+                "Giocatore": "Giocatore_108",
+                "Statistica": 10
+            },
+            {
+                "Rank": 109,
+                "Giocatore": "Giocatore_109",
+                "Statistica": 75
+            },
+            {
+                "Rank": 110,
+                "Giocatore": "Giocatore_110",
+                "Statistica": 83
+            },
+            {
+                "Rank": 111,
+                "Giocatore": "Giocatore_111",
+                "Statistica": 62
+            },
+            {
+                "Rank": 112,
+                "Giocatore": "Giocatore_112",
+                "Statistica": 74
+            },
+            {
+                "Rank": 113,
+                "Giocatore": "Giocatore_113",
+                "Statistica": 18
+            },
+            {
+                "Rank": 114,
+                "Giocatore": "Giocatore_114",
+                "Statistica": 24
+            },
+            {
+                "Rank": 115,
+                "Giocatore": "Giocatore_115",
+                "Statistica": 57
+            },
+            {
+                "Rank": 116,
+                "Giocatore": "Giocatore_116",
+                "Statistica": 27
+            },
+            {
+                "Rank": 117,
+                "Giocatore": "Giocatore_117",
+                "Statistica": 49
+            },
+            {
+                "Rank": 118,
+                "Giocatore": "Giocatore_118",
+                "Statistica": 96
+            },
+            {
+                "Rank": 119,
+                "Giocatore": "Giocatore_119",
+                "Statistica": 30
+            },
+            {
+                "Rank": 120,
+                "Giocatore": "Giocatore_120",
+                "Statistica": 76
+            },
+            {
+                "Rank": 121,
+                "Giocatore": "Giocatore_121",
+                "Statistica": 85
+            },
+            {
+                "Rank": 122,
+                "Giocatore": "Giocatore_122",
+                "Statistica": 42
+            },
+            {
+                "Rank": 123,
+                "Giocatore": "Giocatore_123",
+                "Statistica": 25
+            },
+            {
+                "Rank": 124,
+                "Giocatore": "Giocatore_124",
+                "Statistica": 21
+            },
+            {
+                "Rank": 125,
+                "Giocatore": "Giocatore_125",
+                "Statistica": 4
+            },
+            {
+                "Rank": 126,
+                "Giocatore": "Giocatore_126",
+                "Statistica": 72
+            },
+            {
+                "Rank": 127,
+                "Giocatore": "Giocatore_127",
+                "Statistica": 51
+            },
+            {
+                "Rank": 128,
+                "Giocatore": "Giocatore_128",
+                "Statistica": 76
+            },
+            {
+                "Rank": 129,
+                "Giocatore": "Giocatore_129",
+                "Statistica": 34
+            },
+            {
+                "Rank": 130,
+                "Giocatore": "Giocatore_130",
+                "Statistica": 38
+            },
+            {
+                "Rank": 131,
+                "Giocatore": "Giocatore_131",
+                "Statistica": 24
+            },
+            {
+                "Rank": 132,
+                "Giocatore": "Giocatore_132",
+                "Statistica": 42
+            },
+            {
+                "Rank": 133,
+                "Giocatore": "Giocatore_133",
+                "Statistica": 75
+            },
+            {
+                "Rank": 134,
+                "Giocatore": "Giocatore_134",
+                "Statistica": 14
+            },
+            {
+                "Rank": 135,
+                "Giocatore": "Giocatore_135",
+                "Statistica": 11
+            },
+            {
+                "Rank": 136,
+                "Giocatore": "Giocatore_136",
+                "Statistica": 82
+            },
+            {
+                "Rank": 137,
+                "Giocatore": "Giocatore_137",
+                "Statistica": 60
+            },
+            {
+                "Rank": 138,
+                "Giocatore": "Giocatore_138",
+                "Statistica": 5
+            },
+            {
+                "Rank": 139,
+                "Giocatore": "Giocatore_139",
+                "Statistica": 63
+            },
+            {
+                "Rank": 140,
+                "Giocatore": "Giocatore_140",
+                "Statistica": 4
+            },
+            {
+                "Rank": 141,
+                "Giocatore": "Giocatore_141",
+                "Statistica": 41
+            },
+            {
+                "Rank": 142,
+                "Giocatore": "Giocatore_142",
+                "Statistica": 9
+            },
+            {
+                "Rank": 143,
+                "Giocatore": "Giocatore_143",
+                "Statistica": 58
+            },
+            {
+                "Rank": 144,
+                "Giocatore": "Giocatore_144",
+                "Statistica": 8
+            },
+            {
+                "Rank": 145,
+                "Giocatore": "Giocatore_145",
+                "Statistica": 21
+            },
+            {
+                "Rank": 146,
+                "Giocatore": "Giocatore_146",
+                "Statistica": 67
+            },
+            {
+                "Rank": 147,
+                "Giocatore": "Giocatore_147",
+                "Statistica": 43
+            },
+            {
+                "Rank": 148,
+                "Giocatore": "Giocatore_148",
+                "Statistica": 26
+            },
+            {
+                "Rank": 149,
+                "Giocatore": "Giocatore_149",
+                "Statistica": 1
+            },
+            {
+                "Rank": 150,
+                "Giocatore": "Giocatore_150",
+                "Statistica": 68
+            },
+            {
+                "Rank": 151,
+                "Giocatore": "Giocatore_151",
+                "Statistica": 27
+            },
+            {
+                "Rank": 152,
+                "Giocatore": "Giocatore_152",
+                "Statistica": 66
+            },
+            {
+                "Rank": 153,
+                "Giocatore": "Giocatore_153",
+                "Statistica": 33
+            },
+            {
+                "Rank": 154,
+                "Giocatore": "Giocatore_154",
+                "Statistica": 14
+            },
+            {
+                "Rank": 155,
+                "Giocatore": "Giocatore_155",
+                "Statistica": 84
+            },
+            {
+                "Rank": 156,
+                "Giocatore": "Giocatore_156",
+                "Statistica": 59
+            },
+            {
+                "Rank": 157,
+                "Giocatore": "Giocatore_157",
+                "Statistica": 5
+            },
+            {
+                "Rank": 158,
+                "Giocatore": "Giocatore_158",
+                "Statistica": 24
+            },
+            {
+                "Rank": 159,
+                "Giocatore": "Giocatore_159",
+                "Statistica": 69
+            },
+            {
+                "Rank": 160,
+                "Giocatore": "Giocatore_160",
+                "Statistica": 86
+            },
+            {
+                "Rank": 161,
+                "Giocatore": "Giocatore_161",
+                "Statistica": 68
+            },
+            {
+                "Rank": 162,
+                "Giocatore": "Giocatore_162",
+                "Statistica": 74
+            },
+            {
+                "Rank": 163,
+                "Giocatore": "Giocatore_163",
+                "Statistica": 58
+            },
+            {
+                "Rank": 164,
+                "Giocatore": "Giocatore_164",
+                "Statistica": 69
+            },
+            {
+                "Rank": 165,
+                "Giocatore": "Giocatore_165",
+                "Statistica": 85
+            },
+            {
+                "Rank": 166,
+                "Giocatore": "Giocatore_166",
+                "Statistica": 86
+            },
+            {
+                "Rank": 167,
+                "Giocatore": "Giocatore_167",
+                "Statistica": 73
+            },
+            {
+                "Rank": 168,
+                "Giocatore": "Giocatore_168",
+                "Statistica": 93
+            },
+            {
+                "Rank": 169,
+                "Giocatore": "Giocatore_169",
+                "Statistica": 52
+            },
+            {
+                "Rank": 170,
+                "Giocatore": "Giocatore_170",
+                "Statistica": 37
+            },
+            {
+                "Rank": 171,
+                "Giocatore": "Giocatore_171",
+                "Statistica": 20
+            },
+            {
+                "Rank": 172,
+                "Giocatore": "Giocatore_172",
+                "Statistica": 94
+            },
+            {
+                "Rank": 173,
+                "Giocatore": "Giocatore_173",
+                "Statistica": 84
+            },
+            {
+                "Rank": 174,
+                "Giocatore": "Giocatore_174",
+                "Statistica": 18
+            },
+            {
+                "Rank": 175,
+                "Giocatore": "Giocatore_175",
+                "Statistica": 81
+            },
+            {
+                "Rank": 176,
+                "Giocatore": "Giocatore_176",
+                "Statistica": 69
+            },
+            {
+                "Rank": 177,
+                "Giocatore": "Giocatore_177",
+                "Statistica": 25
+            },
+            {
+                "Rank": 178,
+                "Giocatore": "Giocatore_178",
+                "Statistica": 4
+            },
+            {
+                "Rank": 179,
+                "Giocatore": "Giocatore_179",
+                "Statistica": 88
+            },
+            {
+                "Rank": 180,
+                "Giocatore": "Giocatore_180",
+                "Statistica": 33
+            },
+            {
+                "Rank": 181,
+                "Giocatore": "Giocatore_181",
+                "Statistica": 52
+            },
+            {
+                "Rank": 182,
+                "Giocatore": "Giocatore_182",
+                "Statistica": 94
+            },
+            {
+                "Rank": 183,
+                "Giocatore": "Giocatore_183",
+                "Statistica": 6
+            },
+            {
+                "Rank": 184,
+                "Giocatore": "Giocatore_184",
+                "Statistica": 16
+            },
+            {
+                "Rank": 185,
+                "Giocatore": "Giocatore_185",
+                "Statistica": 97
+            },
+            {
+                "Rank": 186,
+                "Giocatore": "Giocatore_186",
+                "Statistica": 63
+            },
+            {
+                "Rank": 187,
+                "Giocatore": "Giocatore_187",
+                "Statistica": 61
+            },
+            {
+                "Rank": 188,
+                "Giocatore": "Giocatore_188",
+                "Statistica": 94
+            },
+            {
+                "Rank": 189,
+                "Giocatore": "Giocatore_189",
+                "Statistica": 91
+            },
+            {
+                "Rank": 190,
+                "Giocatore": "Giocatore_190",
+                "Statistica": 6
+            },
+            {
+                "Rank": 191,
+                "Giocatore": "Giocatore_191",
+                "Statistica": 59
+            },
+            {
+                "Rank": 192,
+                "Giocatore": "Giocatore_192",
+                "Statistica": 97
+            },
+            {
+                "Rank": 193,
+                "Giocatore": "Giocatore_193",
+                "Statistica": 19
+            },
+            {
+                "Rank": 194,
+                "Giocatore": "Giocatore_194",
+                "Statistica": 91
+            },
+            {
+                "Rank": 195,
+                "Giocatore": "Giocatore_195",
+                "Statistica": 43
+            },
+            {
+                "Rank": 196,
+                "Giocatore": "Giocatore_196",
+                "Statistica": 51
+            },
+            {
+                "Rank": 197,
+                "Giocatore": "Giocatore_197",
+                "Statistica": 95
+            },
+            {
+                "Rank": 198,
+                "Giocatore": "Giocatore_198",
+                "Statistica": 82
+            },
+            {
+                "Rank": 199,
+                "Giocatore": "Giocatore_199",
+                "Statistica": 7
+            },
+            {
+                "Rank": 200,
+                "Giocatore": "Giocatore_200",
+                "Statistica": 65
+            }
+        ],
+        "partite giocate": [
+            {
+                "Rank": 1,
+                "Giocatore": "Giocatore_1",
+                "Statistica": 75
+            },
+            {
+                "Rank": 2,
+                "Giocatore": "Giocatore_2",
+                "Statistica": 48
+            },
+            {
+                "Rank": 3,
+                "Giocatore": "Giocatore_3",
+                "Statistica": 79
+            },
+            {
+                "Rank": 4,
+                "Giocatore": "Giocatore_4",
+                "Statistica": 92
+            },
+            {
+                "Rank": 5,
+                "Giocatore": "Giocatore_5",
+                "Statistica": 71
+            },
+            {
+                "Rank": 6,
+                "Giocatore": "Giocatore_6",
+                "Statistica": 93
+            },
+            {
+                "Rank": 7,
+                "Giocatore": "Giocatore_7",
+                "Statistica": 64
+            },
+            {
+                "Rank": 8,
+                "Giocatore": "Giocatore_8",
+                "Statistica": 30
+            },
+            {
+                "Rank": 9,
+                "Giocatore": "Giocatore_9",
+                "Statistica": 20
+            },
+            {
+                "Rank": 10,
+                "Giocatore": "Giocatore_10",
+                "Statistica": 51
+            },
+            {
+                "Rank": 11,
+                "Giocatore": "Giocatore_11",
+                "Statistica": 64
+            },
+            {
+                "Rank": 12,
+                "Giocatore": "Giocatore_12",
+                "Statistica": 45
+            },
+            {
+                "Rank": 13,
+                "Giocatore": "Giocatore_13",
+                "Statistica": 72
+            },
+            {
+                "Rank": 14,
+                "Giocatore": "Giocatore_14",
+                "Statistica": 69
+            },
+            {
+                "Rank": 15,
+                "Giocatore": "Giocatore_15",
+                "Statistica": 60
+            },
+            {
+                "Rank": 16,
+                "Giocatore": "Giocatore_16",
+                "Statistica": 99
+            },
+            {
+                "Rank": 17,
+                "Giocatore": "Giocatore_17",
+                "Statistica": 4
+            },
+            {
+                "Rank": 18,
+                "Giocatore": "Giocatore_18",
+                "Statistica": 9
+            },
+            {
+                "Rank": 19,
+                "Giocatore": "Giocatore_19",
+                "Statistica": 96
+            },
+            {
+                "Rank": 20,
+                "Giocatore": "Giocatore_20",
+                "Statistica": 52
+            },
+            {
+                "Rank": 21,
+                "Giocatore": "Giocatore_21",
+                "Statistica": 34
+            },
+            {
+                "Rank": 22,
+                "Giocatore": "Giocatore_22",
+                "Statistica": 50
+            },
+            {
+                "Rank": 23,
+                "Giocatore": "Giocatore_23",
+                "Statistica": 79
+            },
+            {
+                "Rank": 24,
+                "Giocatore": "Giocatore_24",
+                "Statistica": 43
+            },
+            {
+                "Rank": 25,
+                "Giocatore": "Giocatore_25",
+                "Statistica": 38
+            },
+            {
+                "Rank": 26,
+                "Giocatore": "Giocatore_26",
+                "Statistica": 21
+            },
+            {
+                "Rank": 27,
+                "Giocatore": "Giocatore_27",
+                "Statistica": 89
+            },
+            {
+                "Rank": 28,
+                "Giocatore": "Giocatore_28",
+                "Statistica": 50
+            },
+            {
+                "Rank": 29,
+                "Giocatore": "Giocatore_29",
+                "Statistica": 22
+            },
+            {
+                "Rank": 30,
+                "Giocatore": "Giocatore_30",
+                "Statistica": 24
+            },
+            {
+                "Rank": 31,
+                "Giocatore": "Giocatore_31",
+                "Statistica": 96
+            },
+            {
+                "Rank": 32,
+                "Giocatore": "Giocatore_32",
+                "Statistica": 12
+            },
+            {
+                "Rank": 33,
+                "Giocatore": "Giocatore_33",
+                "Statistica": 23
+            },
+            {
+                "Rank": 34,
+                "Giocatore": "Giocatore_34",
+                "Statistica": 75
+            },
+            {
+                "Rank": 35,
+                "Giocatore": "Giocatore_35",
+                "Statistica": 3
+            },
+            {
+                "Rank": 36,
+                "Giocatore": "Giocatore_36",
+                "Statistica": 4
+            },
+            {
+                "Rank": 37,
+                "Giocatore": "Giocatore_37",
+                "Statistica": 71
+            },
+            {
+                "Rank": 38,
+                "Giocatore": "Giocatore_38",
+                "Statistica": 38
+            },
+            {
+                "Rank": 39,
+                "Giocatore": "Giocatore_39",
+                "Statistica": 24
+            },
+            {
+                "Rank": 40,
+                "Giocatore": "Giocatore_40",
+                "Statistica": 12
+            },
+            {
+                "Rank": 41,
+                "Giocatore": "Giocatore_41",
+                "Statistica": 54
+            },
+            {
+                "Rank": 42,
+                "Giocatore": "Giocatore_42",
+                "Statistica": 99
+            },
+            {
+                "Rank": 43,
+                "Giocatore": "Giocatore_43",
+                "Statistica": 27
+            },
+            {
+                "Rank": 44,
+                "Giocatore": "Giocatore_44",
+                "Statistica": 1
+            },
+            {
+                "Rank": 45,
+                "Giocatore": "Giocatore_45",
+                "Statistica": 96
+            },
+            {
+                "Rank": 46,
+                "Giocatore": "Giocatore_46",
+                "Statistica": 55
+            },
+            {
+                "Rank": 47,
+                "Giocatore": "Giocatore_47",
+                "Statistica": 56
+            },
+            {
+                "Rank": 48,
+                "Giocatore": "Giocatore_48",
+                "Statistica": 51
+            },
+            {
+                "Rank": 49,
+                "Giocatore": "Giocatore_49",
+                "Statistica": 5
+            },
+            {
+                "Rank": 50,
+                "Giocatore": "Giocatore_50",
+                "Statistica": 91
+            },
+            {
+                "Rank": 51,
+                "Giocatore": "Giocatore_51",
+                "Statistica": 16
+            },
+            {
+                "Rank": 52,
+                "Giocatore": "Giocatore_52",
+                "Statistica": 46
+            },
+            {
+                "Rank": 53,
+                "Giocatore": "Giocatore_53",
+                "Statistica": 53
+            },
+            {
+                "Rank": 54,
+                "Giocatore": "Giocatore_54",
+                "Statistica": 67
+            },
+            {
+                "Rank": 55,
+                "Giocatore": "Giocatore_55",
+                "Statistica": 49
+            },
+            {
+                "Rank": 56,
+                "Giocatore": "Giocatore_56",
+                "Statistica": 57
+            },
+            {
+                "Rank": 57,
+                "Giocatore": "Giocatore_57",
+                "Statistica": 97
+            },
+            {
+                "Rank": 58,
+                "Giocatore": "Giocatore_58",
+                "Statistica": 79
+            },
+            {
+                "Rank": 59,
+                "Giocatore": "Giocatore_59",
+                "Statistica": 18
+            },
+            {
+                "Rank": 60,
+                "Giocatore": "Giocatore_60",
+                "Statistica": 17
+            },
+            {
+                "Rank": 61,
+                "Giocatore": "Giocatore_61",
+                "Statistica": 19
+            },
+            {
+                "Rank": 62,
+                "Giocatore": "Giocatore_62",
+                "Statistica": 32
+            },
+            {
+                "Rank": 63,
+                "Giocatore": "Giocatore_63",
+                "Statistica": 26
+            },
+            {
+                "Rank": 64,
+                "Giocatore": "Giocatore_64",
+                "Statistica": 96
+            },
+            {
+                "Rank": 65,
+                "Giocatore": "Giocatore_65",
+                "Statistica": 16
+            },
+            {
+                "Rank": 66,
+                "Giocatore": "Giocatore_66",
+                "Statistica": 82
+            },
+            {
+                "Rank": 67,
+                "Giocatore": "Giocatore_67",
+                "Statistica": 23
+            },
+            {
+                "Rank": 68,
+                "Giocatore": "Giocatore_68",
+                "Statistica": 91
+            },
+            {
+                "Rank": 69,
+                "Giocatore": "Giocatore_69",
+                "Statistica": 58
+            },
+            {
+                "Rank": 70,
+                "Giocatore": "Giocatore_70",
+                "Statistica": 94
+            },
+            {
+                "Rank": 71,
+                "Giocatore": "Giocatore_71",
+                "Statistica": 12
+            },
+            {
+                "Rank": 72,
+                "Giocatore": "Giocatore_72",
+                "Statistica": 86
+            },
+            {
+                "Rank": 73,
+                "Giocatore": "Giocatore_73",
+                "Statistica": 86
+            },
+            {
+                "Rank": 74,
+                "Giocatore": "Giocatore_74",
+                "Statistica": 51
+            },
+            {
+                "Rank": 75,
+                "Giocatore": "Giocatore_75",
+                "Statistica": 84
+            },
+            {
+                "Rank": 76,
+                "Giocatore": "Giocatore_76",
+                "Statistica": 19
+            },
+            {
+                "Rank": 77,
+                "Giocatore": "Giocatore_77",
+                "Statistica": 69
+            },
+            {
+                "Rank": 78,
+                "Giocatore": "Giocatore_78",
+                "Statistica": 14
+            },
+            {
+                "Rank": 79,
+                "Giocatore": "Giocatore_79",
+                "Statistica": 5
+            },
+            {
+                "Rank": 80,
+                "Giocatore": "Giocatore_80",
+                "Statistica": 13
+            },
+            {
+                "Rank": 81,
+                "Giocatore": "Giocatore_81",
+                "Statistica": 11
+            },
+            {
+                "Rank": 82,
+                "Giocatore": "Giocatore_82",
+                "Statistica": 86
+            },
+            {
+                "Rank": 83,
+                "Giocatore": "Giocatore_83",
+                "Statistica": 79
+            },
+            {
+                "Rank": 84,
+                "Giocatore": "Giocatore_84",
+                "Statistica": 27
+            },
+            {
+                "Rank": 85,
+                "Giocatore": "Giocatore_85",
+                "Statistica": 9
+            },
+            {
+                "Rank": 86,
+                "Giocatore": "Giocatore_86",
+                "Statistica": 45
+            },
+            {
+                "Rank": 87,
+                "Giocatore": "Giocatore_87",
+                "Statistica": 53
+            },
+            {
+                "Rank": 88,
+                "Giocatore": "Giocatore_88",
+                "Statistica": 71
+            },
+            {
+                "Rank": 89,
+                "Giocatore": "Giocatore_89",
+                "Statistica": 74
+            },
+            {
+                "Rank": 90,
+                "Giocatore": "Giocatore_90",
+                "Statistica": 92
+            },
+            {
+                "Rank": 91,
+                "Giocatore": "Giocatore_91",
+                "Statistica": 60
+            },
+            {
+                "Rank": 92,
+                "Giocatore": "Giocatore_92",
+                "Statistica": 40
+            },
+            {
+                "Rank": 93,
+                "Giocatore": "Giocatore_93",
+                "Statistica": 65
+            },
+            {
+                "Rank": 94,
+                "Giocatore": "Giocatore_94",
+                "Statistica": 68
+            },
+            {
+                "Rank": 95,
+                "Giocatore": "Giocatore_95",
+                "Statistica": 54
+            },
+            {
+                "Rank": 96,
+                "Giocatore": "Giocatore_96",
+                "Statistica": 42
+            },
+            {
+                "Rank": 97,
+                "Giocatore": "Giocatore_97",
+                "Statistica": 21
+            },
+            {
+                "Rank": 98,
+                "Giocatore": "Giocatore_98",
+                "Statistica": 52
+            },
+            {
+                "Rank": 99,
+                "Giocatore": "Giocatore_99",
+                "Statistica": 33
+            },
+            {
+                "Rank": 100,
+                "Giocatore": "Giocatore_100",
+                "Statistica": 18
+            },
+            {
+                "Rank": 101,
+                "Giocatore": "Giocatore_101",
+                "Statistica": 74
+            },
+            {
+                "Rank": 102,
+                "Giocatore": "Giocatore_102",
+                "Statistica": 21
+            },
+            {
+                "Rank": 103,
+                "Giocatore": "Giocatore_103",
+                "Statistica": 59
+            },
+            {
+                "Rank": 104,
+                "Giocatore": "Giocatore_104",
+                "Statistica": 40
+            },
+            {
+                "Rank": 105,
+                "Giocatore": "Giocatore_105",
+                "Statistica": 76
+            },
+            {
+                "Rank": 106,
+                "Giocatore": "Giocatore_106",
+                "Statistica": 95
+            },
+            {
+                "Rank": 107,
+                "Giocatore": "Giocatore_107",
+                "Statistica": 49
+            },
+            {
+                "Rank": 108,
+                "Giocatore": "Giocatore_108",
+                "Statistica": 50
+            },
+            {
+                "Rank": 109,
+                "Giocatore": "Giocatore_109",
+                "Statistica": 58
+            },
+            {
+                "Rank": 110,
+                "Giocatore": "Giocatore_110",
+                "Statistica": 29
+            },
+            {
+                "Rank": 111,
+                "Giocatore": "Giocatore_111",
+                "Statistica": 34
+            },
+            {
+                "Rank": 112,
+                "Giocatore": "Giocatore_112",
+                "Statistica": 94
+            },
+            {
+                "Rank": 113,
+                "Giocatore": "Giocatore_113",
+                "Statistica": 24
+            },
+            {
+                "Rank": 114,
+                "Giocatore": "Giocatore_114",
+                "Statistica": 95
+            },
+            {
+                "Rank": 115,
+                "Giocatore": "Giocatore_115",
+                "Statistica": 48
+            },
+            {
+                "Rank": 116,
+                "Giocatore": "Giocatore_116",
+                "Statistica": 18
+            },
+            {
+                "Rank": 117,
+                "Giocatore": "Giocatore_117",
+                "Statistica": 57
+            },
+            {
+                "Rank": 118,
+                "Giocatore": "Giocatore_118",
+                "Statistica": 6
+            },
+            {
+                "Rank": 119,
+                "Giocatore": "Giocatore_119",
+                "Statistica": 71
+            },
+            {
+                "Rank": 120,
+                "Giocatore": "Giocatore_120",
+                "Statistica": 39
+            },
+            {
+                "Rank": 121,
+                "Giocatore": "Giocatore_121",
+                "Statistica": 65
+            },
+            {
+                "Rank": 122,
+                "Giocatore": "Giocatore_122",
+                "Statistica": 99
+            },
+            {
+                "Rank": 123,
+                "Giocatore": "Giocatore_123",
+                "Statistica": 57
+            },
+            {
+                "Rank": 124,
+                "Giocatore": "Giocatore_124",
+                "Statistica": 75
+            },
+            {
+                "Rank": 125,
+                "Giocatore": "Giocatore_125",
+                "Statistica": 8
+            },
+            {
+                "Rank": 126,
+                "Giocatore": "Giocatore_126",
+                "Statistica": 66
+            },
+            {
+                "Rank": 127,
+                "Giocatore": "Giocatore_127",
+                "Statistica": 54
+            },
+            {
+                "Rank": 128,
+                "Giocatore": "Giocatore_128",
+                "Statistica": 88
+            },
+            {
+                "Rank": 129,
+                "Giocatore": "Giocatore_129",
+                "Statistica": 99
+            },
+            {
+                "Rank": 130,
+                "Giocatore": "Giocatore_130",
+                "Statistica": 8
+            },
+            {
+                "Rank": 131,
+                "Giocatore": "Giocatore_131",
+                "Statistica": 81
+            },
+            {
+                "Rank": 132,
+                "Giocatore": "Giocatore_132",
+                "Statistica": 5
+            },
+            {
+                "Rank": 133,
+                "Giocatore": "Giocatore_133",
+                "Statistica": 96
+            },
+            {
+                "Rank": 134,
+                "Giocatore": "Giocatore_134",
+                "Statistica": 51
+            },
+            {
+                "Rank": 135,
+                "Giocatore": "Giocatore_135",
+                "Statistica": 63
+            },
+            {
+                "Rank": 136,
+                "Giocatore": "Giocatore_136",
+                "Statistica": 51
+            },
+            {
+                "Rank": 137,
+                "Giocatore": "Giocatore_137",
+                "Statistica": 100
+            },
+            {
+                "Rank": 138,
+                "Giocatore": "Giocatore_138",
+                "Statistica": 54
+            },
+            {
+                "Rank": 139,
+                "Giocatore": "Giocatore_139",
+                "Statistica": 82
+            },
+            {
+                "Rank": 140,
+                "Giocatore": "Giocatore_140",
+                "Statistica": 95
+            },
+            {
+                "Rank": 141,
+                "Giocatore": "Giocatore_141",
+                "Statistica": 75
+            },
+            {
+                "Rank": 142,
+                "Giocatore": "Giocatore_142",
+                "Statistica": 6
+            },
+            {
+                "Rank": 143,
+                "Giocatore": "Giocatore_143",
+                "Statistica": 2
+            },
+            {
+                "Rank": 144,
+                "Giocatore": "Giocatore_144",
+                "Statistica": 17
+            },
+            {
+                "Rank": 145,
+                "Giocatore": "Giocatore_145",
+                "Statistica": 58
+            },
+            {
+                "Rank": 146,
+                "Giocatore": "Giocatore_146",
+                "Statistica": 23
+            },
+            {
+                "Rank": 147,
+                "Giocatore": "Giocatore_147",
+                "Statistica": 91
+            },
+            {
+                "Rank": 148,
+                "Giocatore": "Giocatore_148",
+                "Statistica": 61
+            },
+            {
+                "Rank": 149,
+                "Giocatore": "Giocatore_149",
+                "Statistica": 82
+            },
+            {
+                "Rank": 150,
+                "Giocatore": "Giocatore_150",
+                "Statistica": 22
+            },
+            {
+                "Rank": 151,
+                "Giocatore": "Giocatore_151",
+                "Statistica": 55
+            },
+            {
+                "Rank": 152,
+                "Giocatore": "Giocatore_152",
+                "Statistica": 31
+            },
+            {
+                "Rank": 153,
+                "Giocatore": "Giocatore_153",
+                "Statistica": 87
+            },
+            {
+                "Rank": 154,
+                "Giocatore": "Giocatore_154",
+                "Statistica": 32
+            },
+            {
+                "Rank": 155,
+                "Giocatore": "Giocatore_155",
+                "Statistica": 28
+            },
+            {
+                "Rank": 156,
+                "Giocatore": "Giocatore_156",
+                "Statistica": 15
+            },
+            {
+                "Rank": 157,
+                "Giocatore": "Giocatore_157",
+                "Statistica": 59
+            },
+            {
+                "Rank": 158,
+                "Giocatore": "Giocatore_158",
+                "Statistica": 40
+            },
+            {
+                "Rank": 159,
+                "Giocatore": "Giocatore_159",
+                "Statistica": 85
+            },
+            {
+                "Rank": 160,
+                "Giocatore": "Giocatore_160",
+                "Statistica": 32
+            },
+            {
+                "Rank": 161,
+                "Giocatore": "Giocatore_161",
+                "Statistica": 45
+            },
+            {
+                "Rank": 162,
+                "Giocatore": "Giocatore_162",
+                "Statistica": 72
+            },
+            {
+                "Rank": 163,
+                "Giocatore": "Giocatore_163",
+                "Statistica": 91
+            },
+            {
+                "Rank": 164,
+                "Giocatore": "Giocatore_164",
+                "Statistica": 80
+            },
+            {
+                "Rank": 165,
+                "Giocatore": "Giocatore_165",
+                "Statistica": 84
+            },
+            {
+                "Rank": 166,
+                "Giocatore": "Giocatore_166",
+                "Statistica": 57
+            },
+            {
+                "Rank": 167,
+                "Giocatore": "Giocatore_167",
+                "Statistica": 81
+            },
+            {
+                "Rank": 168,
+                "Giocatore": "Giocatore_168",
+                "Statistica": 6
+            },
+            {
+                "Rank": 169,
+                "Giocatore": "Giocatore_169",
+                "Statistica": 50
+            },
+            {
+                "Rank": 170,
+                "Giocatore": "Giocatore_170",
+                "Statistica": 25
+            },
+            {
+                "Rank": 171,
+                "Giocatore": "Giocatore_171",
+                "Statistica": 59
+            },
+            {
+                "Rank": 172,
+                "Giocatore": "Giocatore_172",
+                "Statistica": 49
+            },
+            {
+                "Rank": 173,
+                "Giocatore": "Giocatore_173",
+                "Statistica": 81
+            },
+            {
+                "Rank": 174,
+                "Giocatore": "Giocatore_174",
+                "Statistica": 68
+            },
+            {
+                "Rank": 175,
+                "Giocatore": "Giocatore_175",
+                "Statistica": 91
+            },
+            {
+                "Rank": 176,
+                "Giocatore": "Giocatore_176",
+                "Statistica": 51
+            },
+            {
+                "Rank": 177,
+                "Giocatore": "Giocatore_177",
+                "Statistica": 100
+            },
+            {
+                "Rank": 178,
+                "Giocatore": "Giocatore_178",
+                "Statistica": 12
+            },
+            {
+                "Rank": 179,
+                "Giocatore": "Giocatore_179",
+                "Statistica": 2
+            },
+            {
+                "Rank": 180,
+                "Giocatore": "Giocatore_180",
+                "Statistica": 87
+            },
+            {
+                "Rank": 181,
+                "Giocatore": "Giocatore_181",
+                "Statistica": 72
+            },
+            {
+                "Rank": 182,
+                "Giocatore": "Giocatore_182",
+                "Statistica": 84
+            },
+            {
+                "Rank": 183,
+                "Giocatore": "Giocatore_183",
+                "Statistica": 13
+            },
+            {
+                "Rank": 184,
+                "Giocatore": "Giocatore_184",
+                "Statistica": 57
+            },
+            {
+                "Rank": 185,
+                "Giocatore": "Giocatore_185",
+                "Statistica": 70
+            },
+            {
+                "Rank": 186,
+                "Giocatore": "Giocatore_186",
+                "Statistica": 58
+            },
+            {
+                "Rank": 187,
+                "Giocatore": "Giocatore_187",
+                "Statistica": 25
+            },
+            {
+                "Rank": 188,
+                "Giocatore": "Giocatore_188",
+                "Statistica": 9
+            },
+            {
+                "Rank": 189,
+                "Giocatore": "Giocatore_189",
+                "Statistica": 81
+            },
+            {
+                "Rank": 190,
+                "Giocatore": "Giocatore_190",
+                "Statistica": 91
+            },
+            {
+                "Rank": 191,
+                "Giocatore": "Giocatore_191",
+                "Statistica": 63
+            },
+            {
+                "Rank": 192,
+                "Giocatore": "Giocatore_192",
+                "Statistica": 54
+            },
+            {
+                "Rank": 193,
+                "Giocatore": "Giocatore_193",
+                "Statistica": 81
+            },
+            {
+                "Rank": 194,
+                "Giocatore": "Giocatore_194",
+                "Statistica": 41
+            },
+            {
+                "Rank": 195,
+                "Giocatore": "Giocatore_195",
+                "Statistica": 15
+            },
+            {
+                "Rank": 196,
+                "Giocatore": "Giocatore_196",
+                "Statistica": 53
+            },
+            {
+                "Rank": 197,
+                "Giocatore": "Giocatore_197",
+                "Statistica": 88
+            },
+            {
+                "Rank": 198,
+                "Giocatore": "Giocatore_198",
+                "Statistica": 36
+            },
+            {
+                "Rank": 199,
+                "Giocatore": "Giocatore_199",
+                "Statistica": 71
+            },
+            {
+                "Rank": 200,
+                "Giocatore": "Giocatore_200",
+                "Statistica": 84
+            }
+        ],
+        "classi testate": [
+            {
+                "Rank": 1,
+                "Giocatore": "Giocatore_1",
+                "Statistica": 14
+            },
+            {
+                "Rank": 2,
+                "Giocatore": "Giocatore_2",
+                "Statistica": 48
+            },
+            {
+                "Rank": 3,
+                "Giocatore": "Giocatore_3",
+                "Statistica": 34
+            },
+            {
+                "Rank": 4,
+                "Giocatore": "Giocatore_4",
+                "Statistica": 35
+            },
+            {
+                "Rank": 5,
+                "Giocatore": "Giocatore_5",
+                "Statistica": 84
+            },
+            {
+                "Rank": 6,
+                "Giocatore": "Giocatore_6",
+                "Statistica": 67
+            },
+            {
+                "Rank": 7,
+                "Giocatore": "Giocatore_7",
+                "Statistica": 69
+            },
+            {
+                "Rank": 8,
+                "Giocatore": "Giocatore_8",
+                "Statistica": 79
+            },
+            {
+                "Rank": 9,
+                "Giocatore": "Giocatore_9",
+                "Statistica": 88
+            },
+            {
+                "Rank": 10,
+                "Giocatore": "Giocatore_10",
+                "Statistica": 87
+            },
+            {
+                "Rank": 11,
+                "Giocatore": "Giocatore_11",
+                "Statistica": 28
+            },
+            {
+                "Rank": 12,
+                "Giocatore": "Giocatore_12",
+                "Statistica": 45
+            },
+            {
+                "Rank": 13,
+                "Giocatore": "Giocatore_13",
+                "Statistica": 35
+            },
+            {
+                "Rank": 14,
+                "Giocatore": "Giocatore_14",
+                "Statistica": 42
+            },
+            {
+                "Rank": 15,
+                "Giocatore": "Giocatore_15",
+                "Statistica": 32
+            },
+            {
+                "Rank": 16,
+                "Giocatore": "Giocatore_16",
+                "Statistica": 47
+            },
+            {
+                "Rank": 17,
+                "Giocatore": "Giocatore_17",
+                "Statistica": 18
+            },
+            {
+                "Rank": 18,
+                "Giocatore": "Giocatore_18",
+                "Statistica": 99
+            },
+            {
+                "Rank": 19,
+                "Giocatore": "Giocatore_19",
+                "Statistica": 58
+            },
+            {
+                "Rank": 20,
+                "Giocatore": "Giocatore_20",
+                "Statistica": 93
+            },
+            {
+                "Rank": 21,
+                "Giocatore": "Giocatore_21",
+                "Statistica": 81
+            },
+            {
+                "Rank": 22,
+                "Giocatore": "Giocatore_22",
+                "Statistica": 99
+            },
+            {
+                "Rank": 23,
+                "Giocatore": "Giocatore_23",
+                "Statistica": 88
+            },
+            {
+                "Rank": 24,
+                "Giocatore": "Giocatore_24",
+                "Statistica": 42
+            },
+            {
+                "Rank": 25,
+                "Giocatore": "Giocatore_25",
+                "Statistica": 58
+            },
+            {
+                "Rank": 26,
+                "Giocatore": "Giocatore_26",
+                "Statistica": 19
+            },
+            {
+                "Rank": 27,
+                "Giocatore": "Giocatore_27",
+                "Statistica": 14
+            },
+            {
+                "Rank": 28,
+                "Giocatore": "Giocatore_28",
+                "Statistica": 75
+            },
+            {
+                "Rank": 29,
+                "Giocatore": "Giocatore_29",
+                "Statistica": 50
+            },
+            {
+                "Rank": 30,
+                "Giocatore": "Giocatore_30",
+                "Statistica": 90
+            },
+            {
+                "Rank": 31,
+                "Giocatore": "Giocatore_31",
+                "Statistica": 73
+            },
+            {
+                "Rank": 32,
+                "Giocatore": "Giocatore_32",
+                "Statistica": 19
+            },
+            {
+                "Rank": 33,
+                "Giocatore": "Giocatore_33",
+                "Statistica": 63
+            },
+            {
+                "Rank": 34,
+                "Giocatore": "Giocatore_34",
+                "Statistica": 19
+            },
+            {
+                "Rank": 35,
+                "Giocatore": "Giocatore_35",
+                "Statistica": 85
+            },
+            {
+                "Rank": 36,
+                "Giocatore": "Giocatore_36",
+                "Statistica": 37
+            },
+            {
+                "Rank": 37,
+                "Giocatore": "Giocatore_37",
+                "Statistica": 48
+            },
+            {
+                "Rank": 38,
+                "Giocatore": "Giocatore_38",
+                "Statistica": 2
+            },
+            {
+                "Rank": 39,
+                "Giocatore": "Giocatore_39",
+                "Statistica": 44
+            },
+            {
+                "Rank": 40,
+                "Giocatore": "Giocatore_40",
+                "Statistica": 65
+            },
+            {
+                "Rank": 41,
+                "Giocatore": "Giocatore_41",
+                "Statistica": 19
+            },
+            {
+                "Rank": 42,
+                "Giocatore": "Giocatore_42",
+                "Statistica": 87
+            },
+            {
+                "Rank": 43,
+                "Giocatore": "Giocatore_43",
+                "Statistica": 94
+            },
+            {
+                "Rank": 44,
+                "Giocatore": "Giocatore_44",
+                "Statistica": 25
+            },
+            {
+                "Rank": 45,
+                "Giocatore": "Giocatore_45",
+                "Statistica": 15
+            },
+            {
+                "Rank": 46,
+                "Giocatore": "Giocatore_46",
+                "Statistica": 27
+            },
+            {
+                "Rank": 47,
+                "Giocatore": "Giocatore_47",
+                "Statistica": 90
+            },
+            {
+                "Rank": 48,
+                "Giocatore": "Giocatore_48",
+                "Statistica": 76
+            },
+            {
+                "Rank": 49,
+                "Giocatore": "Giocatore_49",
+                "Statistica": 100
+            },
+            {
+                "Rank": 50,
+                "Giocatore": "Giocatore_50",
+                "Statistica": 74
+            },
+            {
+                "Rank": 51,
+                "Giocatore": "Giocatore_51",
+                "Statistica": 24
+            },
+            {
+                "Rank": 52,
+                "Giocatore": "Giocatore_52",
+                "Statistica": 40
+            },
+            {
+                "Rank": 53,
+                "Giocatore": "Giocatore_53",
+                "Statistica": 9
+            },
+            {
+                "Rank": 54,
+                "Giocatore": "Giocatore_54",
+                "Statistica": 15
+            },
+            {
+                "Rank": 55,
+                "Giocatore": "Giocatore_55",
+                "Statistica": 76
+            },
+            {
+                "Rank": 56,
+                "Giocatore": "Giocatore_56",
+                "Statistica": 57
+            },
+            {
+                "Rank": 57,
+                "Giocatore": "Giocatore_57",
+                "Statistica": 26
+            },
+            {
+                "Rank": 58,
+                "Giocatore": "Giocatore_58",
+                "Statistica": 77
+            },
+            {
+                "Rank": 59,
+                "Giocatore": "Giocatore_59",
+                "Statistica": 95
+            },
+            {
+                "Rank": 60,
+                "Giocatore": "Giocatore_60",
+                "Statistica": 39
+            },
+            {
+                "Rank": 61,
+                "Giocatore": "Giocatore_61",
+                "Statistica": 48
+            },
+            {
+                "Rank": 62,
+                "Giocatore": "Giocatore_62",
+                "Statistica": 6
+            },
+            {
+                "Rank": 63,
+                "Giocatore": "Giocatore_63",
+                "Statistica": 9
+            },
+            {
+                "Rank": 64,
+                "Giocatore": "Giocatore_64",
+                "Statistica": 40
+            },
+            {
+                "Rank": 65,
+                "Giocatore": "Giocatore_65",
+                "Statistica": 49
+            },
+            {
+                "Rank": 66,
+                "Giocatore": "Giocatore_66",
+                "Statistica": 41
+            },
+            {
+                "Rank": 67,
+                "Giocatore": "Giocatore_67",
+                "Statistica": 17
+            },
+            {
+                "Rank": 68,
+                "Giocatore": "Giocatore_68",
+                "Statistica": 10
+            },
+            {
+                "Rank": 69,
+                "Giocatore": "Giocatore_69",
+                "Statistica": 75
+            },
+            {
+                "Rank": 70,
+                "Giocatore": "Giocatore_70",
+                "Statistica": 36
+            },
+            {
+                "Rank": 71,
+                "Giocatore": "Giocatore_71",
+                "Statistica": 33
+            },
+            {
+                "Rank": 72,
+                "Giocatore": "Giocatore_72",
+                "Statistica": 21
+            },
+            {
+                "Rank": 73,
+                "Giocatore": "Giocatore_73",
+                "Statistica": 18
+            },
+            {
+                "Rank": 74,
+                "Giocatore": "Giocatore_74",
+                "Statistica": 47
+            },
+            {
+                "Rank": 75,
+                "Giocatore": "Giocatore_75",
+                "Statistica": 2
+            },
+            {
+                "Rank": 76,
+                "Giocatore": "Giocatore_76",
+                "Statistica": 30
+            },
+            {
+                "Rank": 77,
+                "Giocatore": "Giocatore_77",
+                "Statistica": 15
+            },
+            {
+                "Rank": 78,
+                "Giocatore": "Giocatore_78",
+                "Statistica": 23
+            },
+            {
+                "Rank": 79,
+                "Giocatore": "Giocatore_79",
+                "Statistica": 57
+            },
+            {
+                "Rank": 80,
+                "Giocatore": "Giocatore_80",
+                "Statistica": 88
+            },
+            {
+                "Rank": 81,
+                "Giocatore": "Giocatore_81",
+                "Statistica": 36
+            },
+            {
+                "Rank": 82,
+                "Giocatore": "Giocatore_82",
+                "Statistica": 22
+            },
+            {
+                "Rank": 83,
+                "Giocatore": "Giocatore_83",
+                "Statistica": 59
+            },
+            {
+                "Rank": 84,
+                "Giocatore": "Giocatore_84",
+                "Statistica": 83
+            },
+            {
+                "Rank": 85,
+                "Giocatore": "Giocatore_85",
+                "Statistica": 87
+            },
+            {
+                "Rank": 86,
+                "Giocatore": "Giocatore_86",
+                "Statistica": 85
+            },
+            {
+                "Rank": 87,
+                "Giocatore": "Giocatore_87",
+                "Statistica": 35
+            },
+            {
+                "Rank": 88,
+                "Giocatore": "Giocatore_88",
+                "Statistica": 85
+            },
+            {
+                "Rank": 89,
+                "Giocatore": "Giocatore_89",
+                "Statistica": 7
+            },
+            {
+                "Rank": 90,
+                "Giocatore": "Giocatore_90",
+                "Statistica": 59
+            },
+            {
+                "Rank": 91,
+                "Giocatore": "Giocatore_91",
+                "Statistica": 63
+            },
+            {
+                "Rank": 92,
+                "Giocatore": "Giocatore_92",
+                "Statistica": 16
+            },
+            {
+                "Rank": 93,
+                "Giocatore": "Giocatore_93",
+                "Statistica": 99
+            },
+            {
+                "Rank": 94,
+                "Giocatore": "Giocatore_94",
+                "Statistica": 68
+            },
+            {
+                "Rank": 95,
+                "Giocatore": "Giocatore_95",
+                "Statistica": 27
+            },
+            {
+                "Rank": 96,
+                "Giocatore": "Giocatore_96",
+                "Statistica": 58
+            },
+            {
+                "Rank": 97,
+                "Giocatore": "Giocatore_97",
+                "Statistica": 94
+            },
+            {
+                "Rank": 98,
+                "Giocatore": "Giocatore_98",
+                "Statistica": 85
+            },
+            {
+                "Rank": 99,
+                "Giocatore": "Giocatore_99",
+                "Statistica": 31
+            },
+            {
+                "Rank": 100,
+                "Giocatore": "Giocatore_100",
+                "Statistica": 25
+            },
+            {
+                "Rank": 101,
+                "Giocatore": "Giocatore_101",
+                "Statistica": 12
+            },
+            {
+                "Rank": 102,
+                "Giocatore": "Giocatore_102",
+                "Statistica": 16
+            },
+            {
+                "Rank": 103,
+                "Giocatore": "Giocatore_103",
+                "Statistica": 41
+            },
+            {
+                "Rank": 104,
+                "Giocatore": "Giocatore_104",
+                "Statistica": 97
+            },
+            {
+                "Rank": 105,
+                "Giocatore": "Giocatore_105",
+                "Statistica": 97
+            },
+            {
+                "Rank": 106,
+                "Giocatore": "Giocatore_106",
+                "Statistica": 53
+            },
+            {
+                "Rank": 107,
+                "Giocatore": "Giocatore_107",
+                "Statistica": 44
+            },
+            {
+                "Rank": 108,
+                "Giocatore": "Giocatore_108",
+                "Statistica": 64
+            },
+            {
+                "Rank": 109,
+                "Giocatore": "Giocatore_109",
+                "Statistica": 90
+            },
+            {
+                "Rank": 110,
+                "Giocatore": "Giocatore_110",
+                "Statistica": 30
+            },
+            {
+                "Rank": 111,
+                "Giocatore": "Giocatore_111",
+                "Statistica": 16
+            },
+            {
+                "Rank": 112,
+                "Giocatore": "Giocatore_112",
+                "Statistica": 52
+            },
+            {
+                "Rank": 113,
+                "Giocatore": "Giocatore_113",
+                "Statistica": 60
+            },
+            {
+                "Rank": 114,
+                "Giocatore": "Giocatore_114",
+                "Statistica": 10
+            },
+            {
+                "Rank": 115,
+                "Giocatore": "Giocatore_115",
+                "Statistica": 23
+            },
+            {
+                "Rank": 116,
+                "Giocatore": "Giocatore_116",
+                "Statistica": 20
+            },
+            {
+                "Rank": 117,
+                "Giocatore": "Giocatore_117",
+                "Statistica": 71
+            },
+            {
+                "Rank": 118,
+                "Giocatore": "Giocatore_118",
+                "Statistica": 63
+            },
+            {
+                "Rank": 119,
+                "Giocatore": "Giocatore_119",
+                "Statistica": 2
+            },
+            {
+                "Rank": 120,
+                "Giocatore": "Giocatore_120",
+                "Statistica": 43
+            },
+            {
+                "Rank": 121,
+                "Giocatore": "Giocatore_121",
+                "Statistica": 47
+            },
+            {
+                "Rank": 122,
+                "Giocatore": "Giocatore_122",
+                "Statistica": 30
+            },
+            {
+                "Rank": 123,
+                "Giocatore": "Giocatore_123",
+                "Statistica": 58
+            },
+            {
+                "Rank": 124,
+                "Giocatore": "Giocatore_124",
+                "Statistica": 30
+            },
+            {
+                "Rank": 125,
+                "Giocatore": "Giocatore_125",
+                "Statistica": 58
+            },
+            {
+                "Rank": 126,
+                "Giocatore": "Giocatore_126",
+                "Statistica": 59
+            },
+            {
+                "Rank": 127,
+                "Giocatore": "Giocatore_127",
+                "Statistica": 86
+            },
+            {
+                "Rank": 128,
+                "Giocatore": "Giocatore_128",
+                "Statistica": 12
+            },
+            {
+                "Rank": 129,
+                "Giocatore": "Giocatore_129",
+                "Statistica": 59
+            },
+            {
+                "Rank": 130,
+                "Giocatore": "Giocatore_130",
+                "Statistica": 75
+            },
+            {
+                "Rank": 131,
+                "Giocatore": "Giocatore_131",
+                "Statistica": 58
+            },
+            {
+                "Rank": 132,
+                "Giocatore": "Giocatore_132",
+                "Statistica": 82
+            },
+            {
+                "Rank": 133,
+                "Giocatore": "Giocatore_133",
+                "Statistica": 50
+            },
+            {
+                "Rank": 134,
+                "Giocatore": "Giocatore_134",
+                "Statistica": 3
+            },
+            {
+                "Rank": 135,
+                "Giocatore": "Giocatore_135",
+                "Statistica": 91
+            },
+            {
+                "Rank": 136,
+                "Giocatore": "Giocatore_136",
+                "Statistica": 7
+            },
+            {
+                "Rank": 137,
+                "Giocatore": "Giocatore_137",
+                "Statistica": 19
+            },
+            {
+                "Rank": 138,
+                "Giocatore": "Giocatore_138",
+                "Statistica": 2
+            },
+            {
+                "Rank": 139,
+                "Giocatore": "Giocatore_139",
+                "Statistica": 50
+            },
+            {
+                "Rank": 140,
+                "Giocatore": "Giocatore_140",
+                "Statistica": 66
+            },
+            {
+                "Rank": 141,
+                "Giocatore": "Giocatore_141",
+                "Statistica": 91
+            },
+            {
+                "Rank": 142,
+                "Giocatore": "Giocatore_142",
+                "Statistica": 67
+            },
+            {
+                "Rank": 143,
+                "Giocatore": "Giocatore_143",
+                "Statistica": 51
+            },
+            {
+                "Rank": 144,
+                "Giocatore": "Giocatore_144",
+                "Statistica": 82
+            },
+            {
+                "Rank": 145,
+                "Giocatore": "Giocatore_145",
+                "Statistica": 97
+            },
+            {
+                "Rank": 146,
+                "Giocatore": "Giocatore_146",
+                "Statistica": 31
+            },
+            {
+                "Rank": 147,
+                "Giocatore": "Giocatore_147",
+                "Statistica": 93
+            },
+            {
+                "Rank": 148,
+                "Giocatore": "Giocatore_148",
+                "Statistica": 68
+            },
+            {
+                "Rank": 149,
+                "Giocatore": "Giocatore_149",
+                "Statistica": 27
+            },
+            {
+                "Rank": 150,
+                "Giocatore": "Giocatore_150",
+                "Statistica": 90
+            },
+            {
+                "Rank": 151,
+                "Giocatore": "Giocatore_151",
+                "Statistica": 32
+            },
+            {
+                "Rank": 152,
+                "Giocatore": "Giocatore_152",
+                "Statistica": 56
+            },
+            {
+                "Rank": 153,
+                "Giocatore": "Giocatore_153",
+                "Statistica": 18
+            },
+            {
+                "Rank": 154,
+                "Giocatore": "Giocatore_154",
+                "Statistica": 82
+            },
+            {
+                "Rank": 155,
+                "Giocatore": "Giocatore_155",
+                "Statistica": 49
+            },
+            {
+                "Rank": 156,
+                "Giocatore": "Giocatore_156",
+                "Statistica": 64
+            },
+            {
+                "Rank": 157,
+                "Giocatore": "Giocatore_157",
+                "Statistica": 83
+            },
+            {
+                "Rank": 158,
+                "Giocatore": "Giocatore_158",
+                "Statistica": 23
+            },
+            {
+                "Rank": 159,
+                "Giocatore": "Giocatore_159",
+                "Statistica": 85
+            },
+            {
+                "Rank": 160,
+                "Giocatore": "Giocatore_160",
+                "Statistica": 98
+            },
+            {
+                "Rank": 161,
+                "Giocatore": "Giocatore_161",
+                "Statistica": 51
+            },
+            {
+                "Rank": 162,
+                "Giocatore": "Giocatore_162",
+                "Statistica": 60
+            },
+            {
+                "Rank": 163,
+                "Giocatore": "Giocatore_163",
+                "Statistica": 38
+            },
+            {
+                "Rank": 164,
+                "Giocatore": "Giocatore_164",
+                "Statistica": 40
+            },
+            {
+                "Rank": 165,
+                "Giocatore": "Giocatore_165",
+                "Statistica": 96
+            },
+            {
+                "Rank": 166,
+                "Giocatore": "Giocatore_166",
+                "Statistica": 60
+            },
+            {
+                "Rank": 167,
+                "Giocatore": "Giocatore_167",
+                "Statistica": 30
+            },
+            {
+                "Rank": 168,
+                "Giocatore": "Giocatore_168",
+                "Statistica": 97
+            },
+            {
+                "Rank": 169,
+                "Giocatore": "Giocatore_169",
+                "Statistica": 94
+            },
+            {
+                "Rank": 170,
+                "Giocatore": "Giocatore_170",
+                "Statistica": 39
+            },
+            {
+                "Rank": 171,
+                "Giocatore": "Giocatore_171",
+                "Statistica": 7
+            },
+            {
+                "Rank": 172,
+                "Giocatore": "Giocatore_172",
+                "Statistica": 65
+            },
+            {
+                "Rank": 173,
+                "Giocatore": "Giocatore_173",
+                "Statistica": 1
+            },
+            {
+                "Rank": 174,
+                "Giocatore": "Giocatore_174",
+                "Statistica": 59
+            },
+            {
+                "Rank": 175,
+                "Giocatore": "Giocatore_175",
+                "Statistica": 19
+            },
+            {
+                "Rank": 176,
+                "Giocatore": "Giocatore_176",
+                "Statistica": 32
+            },
+            {
+                "Rank": 177,
+                "Giocatore": "Giocatore_177",
+                "Statistica": 48
+            },
+            {
+                "Rank": 178,
+                "Giocatore": "Giocatore_178",
+                "Statistica": 26
+            },
+            {
+                "Rank": 179,
+                "Giocatore": "Giocatore_179",
+                "Statistica": 83
+            },
+            {
+                "Rank": 180,
+                "Giocatore": "Giocatore_180",
+                "Statistica": 11
+            },
+            {
+                "Rank": 181,
+                "Giocatore": "Giocatore_181",
+                "Statistica": 27
+            },
+            {
+                "Rank": 182,
+                "Giocatore": "Giocatore_182",
+                "Statistica": 32
+            },
+            {
+                "Rank": 183,
+                "Giocatore": "Giocatore_183",
+                "Statistica": 62
+            },
+            {
+                "Rank": 184,
+                "Giocatore": "Giocatore_184",
+                "Statistica": 86
+            },
+            {
+                "Rank": 185,
+                "Giocatore": "Giocatore_185",
+                "Statistica": 3
+            },
+            {
+                "Rank": 186,
+                "Giocatore": "Giocatore_186",
+                "Statistica": 7
+            },
+            {
+                "Rank": 187,
+                "Giocatore": "Giocatore_187",
+                "Statistica": 15
+            },
+            {
+                "Rank": 188,
+                "Giocatore": "Giocatore_188",
+                "Statistica": 51
+            },
+            {
+                "Rank": 189,
+                "Giocatore": "Giocatore_189",
+                "Statistica": 70
+            },
+            {
+                "Rank": 190,
+                "Giocatore": "Giocatore_190",
+                "Statistica": 38
+            },
+            {
+                "Rank": 191,
+                "Giocatore": "Giocatore_191",
+                "Statistica": 18
+            },
+            {
+                "Rank": 192,
+                "Giocatore": "Giocatore_192",
+                "Statistica": 87
+            },
+            {
+                "Rank": 193,
+                "Giocatore": "Giocatore_193",
+                "Statistica": 52
+            },
+            {
+                "Rank": 194,
+                "Giocatore": "Giocatore_194",
+                "Statistica": 15
+            },
+            {
+                "Rank": 195,
+                "Giocatore": "Giocatore_195",
+                "Statistica": 1
+            },
+            {
+                "Rank": 196,
+                "Giocatore": "Giocatore_196",
+                "Statistica": 2
+            },
+            {
+                "Rank": 197,
+                "Giocatore": "Giocatore_197",
+                "Statistica": 35
+            },
+            {
+                "Rank": 198,
+                "Giocatore": "Giocatore_198",
+                "Statistica": 15
+            },
+            {
+                "Rank": 199,
+                "Giocatore": "Giocatore_199",
+                "Statistica": 66
+            },
+            {
+                "Rank": 200,
+                "Giocatore": "Giocatore_200",
+                "Statistica": 24
+            }
+        ]
+    },
+    "scalata": {
+        "statistica1": [
+            {
+                "Rank": 1,
+                "Giocatore": "Giocatore_1",
+                "Statistica": 37
+            },
+            {
+                "Rank": 2,
+                "Giocatore": "Giocatore_2",
+                "Statistica": 9
+            },
+            {
+                "Rank": 3,
+                "Giocatore": "Giocatore_3",
+                "Statistica": 14
+            },
+            {
+                "Rank": 4,
+                "Giocatore": "Giocatore_4",
+                "Statistica": 39
+            },
+            {
+                "Rank": 5,
+                "Giocatore": "Giocatore_5",
+                "Statistica": 87
+            },
+            {
+                "Rank": 6,
+                "Giocatore": "Giocatore_6",
+                "Statistica": 68
+            },
+            {
+                "Rank": 7,
+                "Giocatore": "Giocatore_7",
+                "Statistica": 51
+            },
+            {
+                "Rank": 8,
+                "Giocatore": "Giocatore_8",
+                "Statistica": 19
+            },
+            {
+                "Rank": 9,
+                "Giocatore": "Giocatore_9",
+                "Statistica": 30
+            },
+            {
+                "Rank": 10,
+                "Giocatore": "Giocatore_10",
+                "Statistica": 13
+            },
+            {
+                "Rank": 11,
+                "Giocatore": "Giocatore_11",
+                "Statistica": 62
+            },
+            {
+                "Rank": 12,
+                "Giocatore": "Giocatore_12",
+                "Statistica": 92
+            },
+            {
+                "Rank": 13,
+                "Giocatore": "Giocatore_13",
+                "Statistica": 10
+            },
+            {
+                "Rank": 14,
+                "Giocatore": "Giocatore_14",
+                "Statistica": 15
+            },
+            {
+                "Rank": 15,
+                "Giocatore": "Giocatore_15",
+                "Statistica": 1
+            },
+            {
+                "Rank": 16,
+                "Giocatore": "Giocatore_16",
+                "Statistica": 35
+            },
+            {
+                "Rank": 17,
+                "Giocatore": "Giocatore_17",
+                "Statistica": 78
+            },
+            {
+                "Rank": 18,
+                "Giocatore": "Giocatore_18",
+                "Statistica": 75
+            },
+            {
+                "Rank": 19,
+                "Giocatore": "Giocatore_19",
+                "Statistica": 76
+            },
+            {
+                "Rank": 20,
+                "Giocatore": "Giocatore_20",
+                "Statistica": 69
+            },
+            {
+                "Rank": 21,
+                "Giocatore": "Giocatore_21",
+                "Statistica": 54
+            },
+            {
+                "Rank": 22,
+                "Giocatore": "Giocatore_22",
+                "Statistica": 5
+            },
+            {
+                "Rank": 23,
+                "Giocatore": "Giocatore_23",
+                "Statistica": 89
+            },
+            {
+                "Rank": 24,
+                "Giocatore": "Giocatore_24",
+                "Statistica": 54
+            },
+            {
+                "Rank": 25,
+                "Giocatore": "Giocatore_25",
+                "Statistica": 7
+            },
+            {
+                "Rank": 26,
+                "Giocatore": "Giocatore_26",
+                "Statistica": 87
+            },
+            {
+                "Rank": 27,
+                "Giocatore": "Giocatore_27",
+                "Statistica": 7
+            },
+            {
+                "Rank": 28,
+                "Giocatore": "Giocatore_28",
+                "Statistica": 98
+            },
+            {
+                "Rank": 29,
+                "Giocatore": "Giocatore_29",
+                "Statistica": 33
+            },
+            {
+                "Rank": 30,
+                "Giocatore": "Giocatore_30",
+                "Statistica": 50
+            },
+            {
+                "Rank": 31,
+                "Giocatore": "Giocatore_31",
+                "Statistica": 16
+            },
+            {
+                "Rank": 32,
+                "Giocatore": "Giocatore_32",
+                "Statistica": 71
+            },
+            {
+                "Rank": 33,
+                "Giocatore": "Giocatore_33",
+                "Statistica": 89
+            },
+            {
+                "Rank": 34,
+                "Giocatore": "Giocatore_34",
+                "Statistica": 47
+            },
+            {
+                "Rank": 35,
+                "Giocatore": "Giocatore_35",
+                "Statistica": 2
+            },
+            {
+                "Rank": 36,
+                "Giocatore": "Giocatore_36",
+                "Statistica": 65
+            },
+            {
+                "Rank": 37,
+                "Giocatore": "Giocatore_37",
+                "Statistica": 6
+            },
+            {
+                "Rank": 38,
+                "Giocatore": "Giocatore_38",
+                "Statistica": 2
+            },
+            {
+                "Rank": 39,
+                "Giocatore": "Giocatore_39",
+                "Statistica": 75
+            },
+            {
+                "Rank": 40,
+                "Giocatore": "Giocatore_40",
+                "Statistica": 44
+            },
+            {
+                "Rank": 41,
+                "Giocatore": "Giocatore_41",
+                "Statistica": 25
+            },
+            {
+                "Rank": 42,
+                "Giocatore": "Giocatore_42",
+                "Statistica": 40
+            },
+            {
+                "Rank": 43,
+                "Giocatore": "Giocatore_43",
+                "Statistica": 17
+            },
+            {
+                "Rank": 44,
+                "Giocatore": "Giocatore_44",
+                "Statistica": 5
+            },
+            {
+                "Rank": 45,
+                "Giocatore": "Giocatore_45",
+                "Statistica": 47
+            },
+            {
+                "Rank": 46,
+                "Giocatore": "Giocatore_46",
+                "Statistica": 52
+            },
+            {
+                "Rank": 47,
+                "Giocatore": "Giocatore_47",
+                "Statistica": 27
+            },
+            {
+                "Rank": 48,
+                "Giocatore": "Giocatore_48",
+                "Statistica": 99
+            },
+            {
+                "Rank": 49,
+                "Giocatore": "Giocatore_49",
+                "Statistica": 66
+            },
+            {
+                "Rank": 50,
+                "Giocatore": "Giocatore_50",
+                "Statistica": 47
+            },
+            {
+                "Rank": 51,
+                "Giocatore": "Giocatore_51",
+                "Statistica": 50
+            },
+            {
+                "Rank": 52,
+                "Giocatore": "Giocatore_52",
+                "Statistica": 59
+            },
+            {
+                "Rank": 53,
+                "Giocatore": "Giocatore_53",
+                "Statistica": 79
+            },
+            {
+                "Rank": 54,
+                "Giocatore": "Giocatore_54",
+                "Statistica": 61
+            },
+            {
+                "Rank": 55,
+                "Giocatore": "Giocatore_55",
+                "Statistica": 10
+            },
+            {
+                "Rank": 56,
+                "Giocatore": "Giocatore_56",
+                "Statistica": 55
+            },
+            {
+                "Rank": 57,
+                "Giocatore": "Giocatore_57",
+                "Statistica": 23
+            },
+            {
+                "Rank": 58,
+                "Giocatore": "Giocatore_58",
+                "Statistica": 8
+            },
+            {
+                "Rank": 59,
+                "Giocatore": "Giocatore_59",
+                "Statistica": 51
+            },
+            {
+                "Rank": 60,
+                "Giocatore": "Giocatore_60",
+                "Statistica": 53
+            },
+            {
+                "Rank": 61,
+                "Giocatore": "Giocatore_61",
+                "Statistica": 70
+            },
+            {
+                "Rank": 62,
+                "Giocatore": "Giocatore_62",
+                "Statistica": 7
+            },
+            {
+                "Rank": 63,
+                "Giocatore": "Giocatore_63",
+                "Statistica": 46
+            },
+            {
+                "Rank": 64,
+                "Giocatore": "Giocatore_64",
+                "Statistica": 64
+            },
+            {
+                "Rank": 65,
+                "Giocatore": "Giocatore_65",
+                "Statistica": 3
+            },
+            {
+                "Rank": 66,
+                "Giocatore": "Giocatore_66",
+                "Statistica": 15
+            },
+            {
+                "Rank": 67,
+                "Giocatore": "Giocatore_67",
+                "Statistica": 31
+            },
+            {
+                "Rank": 68,
+                "Giocatore": "Giocatore_68",
+                "Statistica": 83
+            },
+            {
+                "Rank": 69,
+                "Giocatore": "Giocatore_69",
+                "Statistica": 3
+            },
+            {
+                "Rank": 70,
+                "Giocatore": "Giocatore_70",
+                "Statistica": 98
+            },
+            {
+                "Rank": 71,
+                "Giocatore": "Giocatore_71",
+                "Statistica": 7
+            },
+            {
+                "Rank": 72,
+                "Giocatore": "Giocatore_72",
+                "Statistica": 49
+            },
+            {
+                "Rank": 73,
+                "Giocatore": "Giocatore_73",
+                "Statistica": 58
+            },
+            {
+                "Rank": 74,
+                "Giocatore": "Giocatore_74",
+                "Statistica": 29
+            },
+            {
+                "Rank": 75,
+                "Giocatore": "Giocatore_75",
+                "Statistica": 62
+            },
+            {
+                "Rank": 76,
+                "Giocatore": "Giocatore_76",
+                "Statistica": 61
+            },
+            {
+                "Rank": 77,
+                "Giocatore": "Giocatore_77",
+                "Statistica": 73
+            },
+            {
+                "Rank": 78,
+                "Giocatore": "Giocatore_78",
+                "Statistica": 48
+            },
+            {
+                "Rank": 79,
+                "Giocatore": "Giocatore_79",
+                "Statistica": 21
+            },
+            {
+                "Rank": 80,
+                "Giocatore": "Giocatore_80",
+                "Statistica": 28
+            },
+            {
+                "Rank": 81,
+                "Giocatore": "Giocatore_81",
+                "Statistica": 4
+            },
+            {
+                "Rank": 82,
+                "Giocatore": "Giocatore_82",
+                "Statistica": 45
+            },
+            {
+                "Rank": 83,
+                "Giocatore": "Giocatore_83",
+                "Statistica": 87
+            },
+            {
+                "Rank": 84,
+                "Giocatore": "Giocatore_84",
+                "Statistica": 21
+            },
+            {
+                "Rank": 85,
+                "Giocatore": "Giocatore_85",
+                "Statistica": 59
+            },
+            {
+                "Rank": 86,
+                "Giocatore": "Giocatore_86",
+                "Statistica": 41
+            },
+            {
+                "Rank": 87,
+                "Giocatore": "Giocatore_87",
+                "Statistica": 94
+            },
+            {
+                "Rank": 88,
+                "Giocatore": "Giocatore_88",
+                "Statistica": 2
+            },
+            {
+                "Rank": 89,
+                "Giocatore": "Giocatore_89",
+                "Statistica": 90
+            },
+            {
+                "Rank": 90,
+                "Giocatore": "Giocatore_90",
+                "Statistica": 41
+            },
+            {
+                "Rank": 91,
+                "Giocatore": "Giocatore_91",
+                "Statistica": 69
+            },
+            {
+                "Rank": 92,
+                "Giocatore": "Giocatore_92",
+                "Statistica": 66
+            },
+            {
+                "Rank": 93,
+                "Giocatore": "Giocatore_93",
+                "Statistica": 57
+            },
+            {
+                "Rank": 94,
+                "Giocatore": "Giocatore_94",
+                "Statistica": 24
+            },
+            {
+                "Rank": 95,
+                "Giocatore": "Giocatore_95",
+                "Statistica": 30
+            },
+            {
+                "Rank": 96,
+                "Giocatore": "Giocatore_96",
+                "Statistica": 45
+            },
+            {
+                "Rank": 97,
+                "Giocatore": "Giocatore_97",
+                "Statistica": 12
+            },
+            {
+                "Rank": 98,
+                "Giocatore": "Giocatore_98",
+                "Statistica": 44
+            },
+            {
+                "Rank": 99,
+                "Giocatore": "Giocatore_99",
+                "Statistica": 19
+            },
+            {
+                "Rank": 100,
+                "Giocatore": "Giocatore_100",
+                "Statistica": 96
+            },
+            {
+                "Rank": 101,
+                "Giocatore": "Giocatore_101",
+                "Statistica": 63
+            },
+            {
+                "Rank": 102,
+                "Giocatore": "Giocatore_102",
+                "Statistica": 8
+            },
+            {
+                "Rank": 103,
+                "Giocatore": "Giocatore_103",
+                "Statistica": 47
+            },
+            {
+                "Rank": 104,
+                "Giocatore": "Giocatore_104",
+                "Statistica": 23
+            },
+            {
+                "Rank": 105,
+                "Giocatore": "Giocatore_105",
+                "Statistica": 99
+            },
+            {
+                "Rank": 106,
+                "Giocatore": "Giocatore_106",
+                "Statistica": 62
+            },
+            {
+                "Rank": 107,
+                "Giocatore": "Giocatore_107",
+                "Statistica": 46
+            },
+            {
+                "Rank": 108,
+                "Giocatore": "Giocatore_108",
+                "Statistica": 33
+            },
+            {
+                "Rank": 109,
+                "Giocatore": "Giocatore_109",
+                "Statistica": 100
+            },
+            {
+                "Rank": 110,
+                "Giocatore": "Giocatore_110",
+                "Statistica": 16
+            },
+            {
+                "Rank": 111,
+                "Giocatore": "Giocatore_111",
+                "Statistica": 70
+            },
+            {
+                "Rank": 112,
+                "Giocatore": "Giocatore_112",
+                "Statistica": 63
+            },
+            {
+                "Rank": 113,
+                "Giocatore": "Giocatore_113",
+                "Statistica": 32
+            },
+            {
+                "Rank": 114,
+                "Giocatore": "Giocatore_114",
+                "Statistica": 98
+            },
+            {
+                "Rank": 115,
+                "Giocatore": "Giocatore_115",
+                "Statistica": 45
+            },
+            {
+                "Rank": 116,
+                "Giocatore": "Giocatore_116",
+                "Statistica": 79
+            },
+            {
+                "Rank": 117,
+                "Giocatore": "Giocatore_117",
+                "Statistica": 8
+            },
+            {
+                "Rank": 118,
+                "Giocatore": "Giocatore_118",
+                "Statistica": 5
+            },
+            {
+                "Rank": 119,
+                "Giocatore": "Giocatore_119",
+                "Statistica": 72
+            },
+            {
+                "Rank": 120,
+                "Giocatore": "Giocatore_120",
+                "Statistica": 87
+            },
+            {
+                "Rank": 121,
+                "Giocatore": "Giocatore_121",
+                "Statistica": 9
+            },
+            {
+                "Rank": 122,
+                "Giocatore": "Giocatore_122",
+                "Statistica": 30
+            },
+            {
+                "Rank": 123,
+                "Giocatore": "Giocatore_123",
+                "Statistica": 94
+            },
+            {
+                "Rank": 124,
+                "Giocatore": "Giocatore_124",
+                "Statistica": 64
+            },
+            {
+                "Rank": 125,
+                "Giocatore": "Giocatore_125",
+                "Statistica": 87
+            },
+            {
+                "Rank": 126,
+                "Giocatore": "Giocatore_126",
+                "Statistica": 46
+            },
+            {
+                "Rank": 127,
+                "Giocatore": "Giocatore_127",
+                "Statistica": 34
+            },
+            {
+                "Rank": 128,
+                "Giocatore": "Giocatore_128",
+                "Statistica": 42
+            },
+            {
+                "Rank": 129,
+                "Giocatore": "Giocatore_129",
+                "Statistica": 6
+            },
+            {
+                "Rank": 130,
+                "Giocatore": "Giocatore_130",
+                "Statistica": 70
+            },
+            {
+                "Rank": 131,
+                "Giocatore": "Giocatore_131",
+                "Statistica": 30
+            },
+            {
+                "Rank": 132,
+                "Giocatore": "Giocatore_132",
+                "Statistica": 13
+            },
+            {
+                "Rank": 133,
+                "Giocatore": "Giocatore_133",
+                "Statistica": 2
+            },
+            {
+                "Rank": 134,
+                "Giocatore": "Giocatore_134",
+                "Statistica": 43
+            },
+            {
+                "Rank": 135,
+                "Giocatore": "Giocatore_135",
+                "Statistica": 74
+            },
+            {
+                "Rank": 136,
+                "Giocatore": "Giocatore_136",
+                "Statistica": 70
+            },
+            {
+                "Rank": 137,
+                "Giocatore": "Giocatore_137",
+                "Statistica": 44
+            },
+            {
+                "Rank": 138,
+                "Giocatore": "Giocatore_138",
+                "Statistica": 32
+            },
+            {
+                "Rank": 139,
+                "Giocatore": "Giocatore_139",
+                "Statistica": 56
+            },
+            {
+                "Rank": 140,
+                "Giocatore": "Giocatore_140",
+                "Statistica": 47
+            },
+            {
+                "Rank": 141,
+                "Giocatore": "Giocatore_141",
+                "Statistica": 31
+            },
+            {
+                "Rank": 142,
+                "Giocatore": "Giocatore_142",
+                "Statistica": 14
+            },
+            {
+                "Rank": 143,
+                "Giocatore": "Giocatore_143",
+                "Statistica": 98
+            },
+            {
+                "Rank": 144,
+                "Giocatore": "Giocatore_144",
+                "Statistica": 32
+            },
+            {
+                "Rank": 145,
+                "Giocatore": "Giocatore_145",
+                "Statistica": 52
+            },
+            {
+                "Rank": 146,
+                "Giocatore": "Giocatore_146",
+                "Statistica": 21
+            },
+            {
+                "Rank": 147,
+                "Giocatore": "Giocatore_147",
+                "Statistica": 52
+            },
+            {
+                "Rank": 148,
+                "Giocatore": "Giocatore_148",
+                "Statistica": 89
+            },
+            {
+                "Rank": 149,
+                "Giocatore": "Giocatore_149",
+                "Statistica": 10
+            },
+            {
+                "Rank": 150,
+                "Giocatore": "Giocatore_150",
+                "Statistica": 46
+            }
+        ],
+        "statistica2": [
+            {
+                "Rank": 1,
+                "Giocatore": "Giocatore_1",
+                "Statistica": 15
+            },
+            {
+                "Rank": 2,
+                "Giocatore": "Giocatore_2",
+                "Statistica": 98
+            },
+            {
+                "Rank": 3,
+                "Giocatore": "Giocatore_3",
+                "Statistica": 25
+            },
+            {
+                "Rank": 4,
+                "Giocatore": "Giocatore_4",
+                "Statistica": 3
+            },
+            {
+                "Rank": 5,
+                "Giocatore": "Giocatore_5",
+                "Statistica": 1
+            },
+            {
+                "Rank": 6,
+                "Giocatore": "Giocatore_6",
+                "Statistica": 11
+            },
+            {
+                "Rank": 7,
+                "Giocatore": "Giocatore_7",
+                "Statistica": 4
+            },
+            {
+                "Rank": 8,
+                "Giocatore": "Giocatore_8",
+                "Statistica": 13
+            },
+            {
+                "Rank": 9,
+                "Giocatore": "Giocatore_9",
+                "Statistica": 2
+            },
+            {
+                "Rank": 10,
+                "Giocatore": "Giocatore_10",
+                "Statistica": 40
+            },
+            {
+                "Rank": 11,
+                "Giocatore": "Giocatore_11",
+                "Statistica": 85
+            },
+            {
+                "Rank": 12,
+                "Giocatore": "Giocatore_12",
+                "Statistica": 70
+            },
+            {
+                "Rank": 13,
+                "Giocatore": "Giocatore_13",
+                "Statistica": 67
+            },
+            {
+                "Rank": 14,
+                "Giocatore": "Giocatore_14",
+                "Statistica": 96
+            },
+            {
+                "Rank": 15,
+                "Giocatore": "Giocatore_15",
+                "Statistica": 19
+            },
+            {
+                "Rank": 16,
+                "Giocatore": "Giocatore_16",
+                "Statistica": 16
+            },
+            {
+                "Rank": 17,
+                "Giocatore": "Giocatore_17",
+                "Statistica": 72
+            },
+            {
+                "Rank": 18,
+                "Giocatore": "Giocatore_18",
+                "Statistica": 99
+            },
+            {
+                "Rank": 19,
+                "Giocatore": "Giocatore_19",
+                "Statistica": 25
+            },
+            {
+                "Rank": 20,
+                "Giocatore": "Giocatore_20",
+                "Statistica": 48
+            },
+            {
+                "Rank": 21,
+                "Giocatore": "Giocatore_21",
+                "Statistica": 85
+            },
+            {
+                "Rank": 22,
+                "Giocatore": "Giocatore_22",
+                "Statistica": 10
+            },
+            {
+                "Rank": 23,
+                "Giocatore": "Giocatore_23",
+                "Statistica": 12
+            },
+            {
+                "Rank": 24,
+                "Giocatore": "Giocatore_24",
+                "Statistica": 96
+            },
+            {
+                "Rank": 25,
+                "Giocatore": "Giocatore_25",
+                "Statistica": 83
+            },
+            {
+                "Rank": 26,
+                "Giocatore": "Giocatore_26",
+                "Statistica": 72
+            },
+            {
+                "Rank": 27,
+                "Giocatore": "Giocatore_27",
+                "Statistica": 5
+            },
+            {
+                "Rank": 28,
+                "Giocatore": "Giocatore_28",
+                "Statistica": 93
+            },
+            {
+                "Rank": 29,
+                "Giocatore": "Giocatore_29",
+                "Statistica": 66
+            },
+            {
+                "Rank": 30,
+                "Giocatore": "Giocatore_30",
+                "Statistica": 61
+            },
+            {
+                "Rank": 31,
+                "Giocatore": "Giocatore_31",
+                "Statistica": 11
+            },
+            {
+                "Rank": 32,
+                "Giocatore": "Giocatore_32",
+                "Statistica": 93
+            },
+            {
+                "Rank": 33,
+                "Giocatore": "Giocatore_33",
+                "Statistica": 50
+            },
+            {
+                "Rank": 34,
+                "Giocatore": "Giocatore_34",
+                "Statistica": 19
+            },
+            {
+                "Rank": 35,
+                "Giocatore": "Giocatore_35",
+                "Statistica": 43
+            },
+            {
+                "Rank": 36,
+                "Giocatore": "Giocatore_36",
+                "Statistica": 35
+            },
+            {
+                "Rank": 37,
+                "Giocatore": "Giocatore_37",
+                "Statistica": 34
+            },
+            {
+                "Rank": 38,
+                "Giocatore": "Giocatore_38",
+                "Statistica": 39
+            },
+            {
+                "Rank": 39,
+                "Giocatore": "Giocatore_39",
+                "Statistica": 29
+            },
+            {
+                "Rank": 40,
+                "Giocatore": "Giocatore_40",
+                "Statistica": 99
+            },
+            {
+                "Rank": 41,
+                "Giocatore": "Giocatore_41",
+                "Statistica": 54
+            },
+            {
+                "Rank": 42,
+                "Giocatore": "Giocatore_42",
+                "Statistica": 15
+            },
+            {
+                "Rank": 43,
+                "Giocatore": "Giocatore_43",
+                "Statistica": 55
+            },
+            {
+                "Rank": 44,
+                "Giocatore": "Giocatore_44",
+                "Statistica": 32
+            },
+            {
+                "Rank": 45,
+                "Giocatore": "Giocatore_45",
+                "Statistica": 39
+            },
+            {
+                "Rank": 46,
+                "Giocatore": "Giocatore_46",
+                "Statistica": 86
+            },
+            {
+                "Rank": 47,
+                "Giocatore": "Giocatore_47",
+                "Statistica": 27
+            },
+            {
+                "Rank": 48,
+                "Giocatore": "Giocatore_48",
+                "Statistica": 67
+            },
+            {
+                "Rank": 49,
+                "Giocatore": "Giocatore_49",
+                "Statistica": 22
+            },
+            {
+                "Rank": 50,
+                "Giocatore": "Giocatore_50",
+                "Statistica": 95
+            },
+            {
+                "Rank": 51,
+                "Giocatore": "Giocatore_51",
+                "Statistica": 77
+            },
+            {
+                "Rank": 52,
+                "Giocatore": "Giocatore_52",
+                "Statistica": 66
+            },
+            {
+                "Rank": 53,
+                "Giocatore": "Giocatore_53",
+                "Statistica": 25
+            },
+            {
+                "Rank": 54,
+                "Giocatore": "Giocatore_54",
+                "Statistica": 93
+            },
+            {
+                "Rank": 55,
+                "Giocatore": "Giocatore_55",
+                "Statistica": 35
+            },
+            {
+                "Rank": 56,
+                "Giocatore": "Giocatore_56",
+                "Statistica": 9
+            },
+            {
+                "Rank": 57,
+                "Giocatore": "Giocatore_57",
+                "Statistica": 84
+            },
+            {
+                "Rank": 58,
+                "Giocatore": "Giocatore_58",
+                "Statistica": 11
+            },
+            {
+                "Rank": 59,
+                "Giocatore": "Giocatore_59",
+                "Statistica": 27
+            },
+            {
+                "Rank": 60,
+                "Giocatore": "Giocatore_60",
+                "Statistica": 84
+            },
+            {
+                "Rank": 61,
+                "Giocatore": "Giocatore_61",
+                "Statistica": 2
+            },
+            {
+                "Rank": 62,
+                "Giocatore": "Giocatore_62",
+                "Statistica": 44
+            },
+            {
+                "Rank": 63,
+                "Giocatore": "Giocatore_63",
+                "Statistica": 24
+            },
+            {
+                "Rank": 64,
+                "Giocatore": "Giocatore_64",
+                "Statistica": 94
+            },
+            {
+                "Rank": 65,
+                "Giocatore": "Giocatore_65",
+                "Statistica": 6
+            },
+            {
+                "Rank": 66,
+                "Giocatore": "Giocatore_66",
+                "Statistica": 29
+            },
+            {
+                "Rank": 67,
+                "Giocatore": "Giocatore_67",
+                "Statistica": 100
+            },
+            {
+                "Rank": 68,
+                "Giocatore": "Giocatore_68",
+                "Statistica": 33
+            },
+            {
+                "Rank": 69,
+                "Giocatore": "Giocatore_69",
+                "Statistica": 91
+            },
+            {
+                "Rank": 70,
+                "Giocatore": "Giocatore_70",
+                "Statistica": 73
+            },
+            {
+                "Rank": 71,
+                "Giocatore": "Giocatore_71",
+                "Statistica": 35
+            },
+            {
+                "Rank": 72,
+                "Giocatore": "Giocatore_72",
+                "Statistica": 96
+            },
+            {
+                "Rank": 73,
+                "Giocatore": "Giocatore_73",
+                "Statistica": 69
+            },
+            {
+                "Rank": 74,
+                "Giocatore": "Giocatore_74",
+                "Statistica": 56
+            },
+            {
+                "Rank": 75,
+                "Giocatore": "Giocatore_75",
+                "Statistica": 2
+            },
+            {
+                "Rank": 76,
+                "Giocatore": "Giocatore_76",
+                "Statistica": 24
+            },
+            {
+                "Rank": 77,
+                "Giocatore": "Giocatore_77",
+                "Statistica": 80
+            },
+            {
+                "Rank": 78,
+                "Giocatore": "Giocatore_78",
+                "Statistica": 89
+            },
+            {
+                "Rank": 79,
+                "Giocatore": "Giocatore_79",
+                "Statistica": 59
+            },
+            {
+                "Rank": 80,
+                "Giocatore": "Giocatore_80",
+                "Statistica": 3
+            },
+            {
+                "Rank": 81,
+                "Giocatore": "Giocatore_81",
+                "Statistica": 27
+            },
+            {
+                "Rank": 82,
+                "Giocatore": "Giocatore_82",
+                "Statistica": 7
+            },
+            {
+                "Rank": 83,
+                "Giocatore": "Giocatore_83",
+                "Statistica": 84
+            },
+            {
+                "Rank": 84,
+                "Giocatore": "Giocatore_84",
+                "Statistica": 90
+            },
+            {
+                "Rank": 85,
+                "Giocatore": "Giocatore_85",
+                "Statistica": 62
+            },
+            {
+                "Rank": 86,
+                "Giocatore": "Giocatore_86",
+                "Statistica": 18
+            },
+            {
+                "Rank": 87,
+                "Giocatore": "Giocatore_87",
+                "Statistica": 42
+            },
+            {
+                "Rank": 88,
+                "Giocatore": "Giocatore_88",
+                "Statistica": 22
+            },
+            {
+                "Rank": 89,
+                "Giocatore": "Giocatore_89",
+                "Statistica": 70
+            },
+            {
+                "Rank": 90,
+                "Giocatore": "Giocatore_90",
+                "Statistica": 40
+            },
+            {
+                "Rank": 91,
+                "Giocatore": "Giocatore_91",
+                "Statistica": 11
+            },
+            {
+                "Rank": 92,
+                "Giocatore": "Giocatore_92",
+                "Statistica": 5
+            },
+            {
+                "Rank": 93,
+                "Giocatore": "Giocatore_93",
+                "Statistica": 85
+            },
+            {
+                "Rank": 94,
+                "Giocatore": "Giocatore_94",
+                "Statistica": 46
+            },
+            {
+                "Rank": 95,
+                "Giocatore": "Giocatore_95",
+                "Statistica": 31
+            },
+            {
+                "Rank": 96,
+                "Giocatore": "Giocatore_96",
+                "Statistica": 94
+            },
+            {
+                "Rank": 97,
+                "Giocatore": "Giocatore_97",
+                "Statistica": 51
+            },
+            {
+                "Rank": 98,
+                "Giocatore": "Giocatore_98",
+                "Statistica": 96
+            },
+            {
+                "Rank": 99,
+                "Giocatore": "Giocatore_99",
+                "Statistica": 50
+            },
+            {
+                "Rank": 100,
+                "Giocatore": "Giocatore_100",
+                "Statistica": 79
+            },
+            {
+                "Rank": 101,
+                "Giocatore": "Giocatore_101",
+                "Statistica": 61
+            },
+            {
+                "Rank": 102,
+                "Giocatore": "Giocatore_102",
+                "Statistica": 74
+            },
+            {
+                "Rank": 103,
+                "Giocatore": "Giocatore_103",
+                "Statistica": 99
+            },
+            {
+                "Rank": 104,
+                "Giocatore": "Giocatore_104",
+                "Statistica": 42
+            },
+            {
+                "Rank": 105,
+                "Giocatore": "Giocatore_105",
+                "Statistica": 16
+            },
+            {
+                "Rank": 106,
+                "Giocatore": "Giocatore_106",
+                "Statistica": 59
+            },
+            {
+                "Rank": 107,
+                "Giocatore": "Giocatore_107",
+                "Statistica": 94
+            },
+            {
+                "Rank": 108,
+                "Giocatore": "Giocatore_108",
+                "Statistica": 37
+            },
+            {
+                "Rank": 109,
+                "Giocatore": "Giocatore_109",
+                "Statistica": 83
+            },
+            {
+                "Rank": 110,
+                "Giocatore": "Giocatore_110",
+                "Statistica": 22
+            },
+            {
+                "Rank": 111,
+                "Giocatore": "Giocatore_111",
+                "Statistica": 53
+            },
+            {
+                "Rank": 112,
+                "Giocatore": "Giocatore_112",
+                "Statistica": 21
+            },
+            {
+                "Rank": 113,
+                "Giocatore": "Giocatore_113",
+                "Statistica": 52
+            },
+            {
+                "Rank": 114,
+                "Giocatore": "Giocatore_114",
+                "Statistica": 19
+            },
+            {
+                "Rank": 115,
+                "Giocatore": "Giocatore_115",
+                "Statistica": 86
+            },
+            {
+                "Rank": 116,
+                "Giocatore": "Giocatore_116",
+                "Statistica": 5
+            },
+            {
+                "Rank": 117,
+                "Giocatore": "Giocatore_117",
+                "Statistica": 42
+            },
+            {
+                "Rank": 118,
+                "Giocatore": "Giocatore_118",
+                "Statistica": 55
+            },
+            {
+                "Rank": 119,
+                "Giocatore": "Giocatore_119",
+                "Statistica": 3
+            },
+            {
+                "Rank": 120,
+                "Giocatore": "Giocatore_120",
+                "Statistica": 5
+            },
+            {
+                "Rank": 121,
+                "Giocatore": "Giocatore_121",
+                "Statistica": 31
+            },
+            {
+                "Rank": 122,
+                "Giocatore": "Giocatore_122",
+                "Statistica": 67
+            },
+            {
+                "Rank": 123,
+                "Giocatore": "Giocatore_123",
+                "Statistica": 86
+            },
+            {
+                "Rank": 124,
+                "Giocatore": "Giocatore_124",
+                "Statistica": 91
+            },
+            {
+                "Rank": 125,
+                "Giocatore": "Giocatore_125",
+                "Statistica": 99
+            },
+            {
+                "Rank": 126,
+                "Giocatore": "Giocatore_126",
+                "Statistica": 54
+            },
+            {
+                "Rank": 127,
+                "Giocatore": "Giocatore_127",
+                "Statistica": 70
+            },
+            {
+                "Rank": 128,
+                "Giocatore": "Giocatore_128",
+                "Statistica": 76
+            },
+            {
+                "Rank": 129,
+                "Giocatore": "Giocatore_129",
+                "Statistica": 96
+            },
+            {
+                "Rank": 130,
+                "Giocatore": "Giocatore_130",
+                "Statistica": 99
+            },
+            {
+                "Rank": 131,
+                "Giocatore": "Giocatore_131",
+                "Statistica": 9
+            },
+            {
+                "Rank": 132,
+                "Giocatore": "Giocatore_132",
+                "Statistica": 73
+            },
+            {
+                "Rank": 133,
+                "Giocatore": "Giocatore_133",
+                "Statistica": 15
+            },
+            {
+                "Rank": 134,
+                "Giocatore": "Giocatore_134",
+                "Statistica": 12
+            },
+            {
+                "Rank": 135,
+                "Giocatore": "Giocatore_135",
+                "Statistica": 35
+            },
+            {
+                "Rank": 136,
+                "Giocatore": "Giocatore_136",
+                "Statistica": 55
+            },
+            {
+                "Rank": 137,
+                "Giocatore": "Giocatore_137",
+                "Statistica": 30
+            },
+            {
+                "Rank": 138,
+                "Giocatore": "Giocatore_138",
+                "Statistica": 82
+            },
+            {
+                "Rank": 139,
+                "Giocatore": "Giocatore_139",
+                "Statistica": 97
+            },
+            {
+                "Rank": 140,
+                "Giocatore": "Giocatore_140",
+                "Statistica": 2
+            },
+            {
+                "Rank": 141,
+                "Giocatore": "Giocatore_141",
+                "Statistica": 22
+            },
+            {
+                "Rank": 142,
+                "Giocatore": "Giocatore_142",
+                "Statistica": 31
+            },
+            {
+                "Rank": 143,
+                "Giocatore": "Giocatore_143",
+                "Statistica": 53
+            },
+            {
+                "Rank": 144,
+                "Giocatore": "Giocatore_144",
+                "Statistica": 18
+            },
+            {
+                "Rank": 145,
+                "Giocatore": "Giocatore_145",
+                "Statistica": 59
+            },
+            {
+                "Rank": 146,
+                "Giocatore": "Giocatore_146",
+                "Statistica": 63
+            },
+            {
+                "Rank": 147,
+                "Giocatore": "Giocatore_147",
+                "Statistica": 19
+            },
+            {
+                "Rank": 148,
+                "Giocatore": "Giocatore_148",
+                "Statistica": 46
+            },
+            {
+                "Rank": 149,
+                "Giocatore": "Giocatore_149",
+                "Statistica": 78
+            },
+            {
+                "Rank": 150,
+                "Giocatore": "Giocatore_150",
+                "Statistica": 55
+            }
+        ]
+    }
+}

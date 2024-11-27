@@ -33,8 +33,9 @@
                     </div>
 
                     <div class="offcanvas-body">
+                        <!-- Selettori e search btn -->
                         <div class="row px-5">
-                            <div class="col-md-4">
+                            <div class="col-lg-4 mb-2">
                                 <span>Modalità di gioco</span>
 
                                 <div class="form-check">
@@ -54,44 +55,43 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-4">
+                            <div class="col-lg-4 mb-2">
                                 <span>Statistica</span>
+                                <div id="statistic-options">
+                                    <!--<div class="form-check">
+                                        <input class="form-check-input" type="radio" name="statistic"
+                                            id="partite_giocate" checked>
+                                        <label class="form-check-label" for="partite_giocate">
+                                            Partite giocate
+                                        </label>
+                                    </div>
 
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="statistics"
-                                        id="partite_giocate" checked>
-                                    <label class="form-check-label" for="partite_giocate">
-                                        Partite giocate
-                                    </label>
-                                </div>
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="radio" name="statistic"
+                                            id="partite_vinte">
+                                        <label class="form-check-label" for="partite_vinte">
+                                            Partite vinte
+                                        </label>
+                                    </div>
 
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="statistics"
-                                        id="partite_vinte">
-                                    <label class="form-check-label" for="partite_vinte">
-                                        Partite vinte
-                                    </label>
-                                </div>
-
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="statistics"
-                                        id="classi_testate">
-                                    <label class="form-check-label" for="classi_testate">
-                                        Classi testate
-                                    </label>
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="radio" name="statistic"
+                                            id="classi_testate">
+                                        <label class="form-check-label" for="classi_testate">
+                                            Classi testate
+                                        </label>
+                                    </div>-->
                                 </div>
                             </div>
 
-                            <div class="col-md-4 d-flex align-items-end justify-content-end ">
+                            <div class="col-lg-4 mb-2 d-flex align-items-end justify-content-end ">
                                 <form class="d-flex" role="search">
                                     <input class="form-control me-2 search-box" type="search" placeholder="Cerca giocatore" aria-label="Search">
                                     <button class="btn btn-success" type="submit">Cerca</button>
                                 </form>
                             </div>
-                            
-                        <!-- Fine row-->
                         </div>
-                        
+                        <!-- Fine selettori e search btn -->
 
                         <!-- Tabella -->
 
@@ -105,33 +105,6 @@
                                             <th scope="col">Statistica</th>
                                         </tr>
                                     </thead>
-                                    <!--<tbody>
-                                        <tr>
-                                            <td>1</td>
-                                            <td>Mario Rossi</td>
-                                            <td>95%</td>
-                                        </tr>
-                                        <tr>
-                                            <td>2</td>
-                                            <td>Luca Bianchi</td>
-                                            <td>89%</td>
-                                        </tr>
-                                        <tr>
-                                            <td>3</td>
-                                            <td>Giulia Verdi</td>
-                                            <td>85%</td>
-                                        </tr>
-                                        <tr>
-                                            <td>4</td>
-                                            <td>Anna Neri</td>
-                                            <td>80%</td>
-                                        </tr>
-                                        <tr>
-                                            <td>5</td>
-                                            <td>Federico Blu</td>
-                                            <td>78%</td>
-                                        </tr>
-                                    </tbody>-->
 
                                     <tbody id="table-body">
                                         <!-- Rows will be dynamically added here -->

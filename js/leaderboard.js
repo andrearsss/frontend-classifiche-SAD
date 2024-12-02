@@ -26,13 +26,14 @@ const statisticOptions = {
 
 // GET simulation
 async function fetchRows(gamemode, statistic, startPage, endPage) {
+    console.log(gamemode, statistic)
     return new Promise((resolve) => {
         setTimeout(async () => {
             try {
                 const response = await fetch('classifiche.json');
                 const allRows = await response.json();
                 rows = allRows[gamemode][statistic];
-
+                
                 let startRow = (startPage - 1) * rowsPerPage
                 let endRow = endPage * rowsPerPage;
                 resolve(rows.slice(startRow, endRow+1));
@@ -61,10 +62,10 @@ async function getRows(gamemode, statistic, page) {
     // loading spinner
     tableBody.innerHTML = `
       <tr>
-        <td colspan="3" class="text-center">
-          <div class="spinner-border text-primary" role="status">
-            <span class="visually-hidden">Loading...</span>
-          </div>
+        <td colspan="4" class="text-center">
+            <div class="spinner-grow text-primary" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
         </td>
       </tr>
     `;
@@ -113,43 +114,6 @@ async function getRows(gamemode, statistic, page) {
     console.log('Cache updated', cache);
 }
 
-
-// fetch rows from startPage to startPage+pageOffset and store in cache
-/*async function getRows(gamemode, statistic, startPage) {
-
-    // loading spinner
-    tableBody.innerHTML = `
-      <tr>
-        <td colspan="3" class="text-center">
-          <div class="spinner-border text-primary" role="status">
-            <span class="visually-hidden">Loading...</span>
-          </div>
-        </td>
-      </tr>
-    `;
-
-    // fetch rows
-    const fetchedRows = await fetchRows(gamemode, statistic, startPage);
-    const startRow = (startPage - 1) * rowsPerPage;
-
-    if (!cache[gamemode]) {
-        cache[gamemode] = {};
-    }
-    if (!cache[gamemode][statistic]) {
-        cache[gamemode][statistic] = {}
-    }
-
-    // store fetched rows in cache
-    for (let page = startPage; page < startPage + pageOffset; page++) {
-        const pageStartIndex = (page - 1) * rowsPerPage;
-        cache[gamemode][statistic][page] = fetchedRows.slice(
-            pageStartIndex - startRow,
-            pageStartIndex - startRow + rowsPerPage
-        );
-    }
-    console.log('Cache updated', cache);
-}*/
-
 // Rendering functions
 
 function renderTable(gamemode, statistic, page) {
@@ -161,7 +125,8 @@ function renderTable(gamemode, statistic, page) {
         const tr = document.createElement('tr');
         tr.innerHTML = `
           <td>${row.rank}</td>
-          <td>${row.giocatore}</td>
+          <td>${row.nome}</td>
+          <td>${row.cognome}</td>
           <td>${row.statistica}</td>
         `;
         tableBody.appendChild(tr);

@@ -5,9 +5,10 @@ import random
 def generate_placeholder_data(num_entries):
     return [
         {
-            "Rank": i + 1,
-            "Giocatore": f"Giocatore_{i + 1}",
-            "Statistica": random.randint(1, 100)
+            "rank": i + 1,
+            "nome": f"Nome_{i + 1}",
+            "cognome": f"Cognome_{i + 1}",
+            "statistica": random.randint(1, 100)
         }
         for i in range(num_entries)
     ]
@@ -15,9 +16,9 @@ def generate_placeholder_data(num_entries):
 # Create the JSON structure
 json_data = {
     "sfida": {
-        "partite vinte": generate_placeholder_data(200),
-        "partite giocate": generate_placeholder_data(200),
-        "classi testate": generate_placeholder_data(200)
+        "partite_vinte": generate_placeholder_data(200),
+        "partite_giocate": generate_placeholder_data(200),
+        "classi_testate": generate_placeholder_data(200)
     },
     "scalata": {
         "statistica1": generate_placeholder_data(150),
@@ -26,7 +27,7 @@ json_data = {
 }
 
 # Save the JSON to a file
-output_path = "C:/Users/Andrea/Desktop/prova frontend classifica/classifiche.json"
+output_path = "./classifiche.json"
 
 with open(output_path, "w") as file:
     json.dump(json_data, file, indent=4)
